@@ -1,0 +1,267 @@
+Assingments at base level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+root	Cellular organisms	653	1.0	653	None
+	Total	653	1.0	653
+	Unclassified at base level	0	0.0	0
+
+Assingments at domain level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Cellular organisms	Bacteria	652	0.998468606432	652	None
+Cellular organisms	Eukaryota	1	0.00153139356815	1	None
+	Total	653	1.0	653
+	Unclassified at domain level	0	0.0	0
+
+Assingments at phylum level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Bacteria	WCHB1-60	1	0.00153139356815	1	None
+Bacteria	Gemmatimonadetes	18	0.0275650842266	18	None
+Bacteria	Armatimonadetes	1	0.00153139356815	1	None
+Bacteria	Spirochaetes	2	0.00306278713629	2	None
+Bacteria	Chlamydiae	3	0.00459418070444	3	None
+Bacteria	Verrucomicrobia	13	0.0199081163859	13	None
+Bacteria	Firmicutes	11	0.0168453292496	11	None
+Bacteria	Actinobacteria	162	0.24808575804	162	None
+Bacteria	Bacteroidetes	45	0.0689127105666	45	None
+Bacteria	Cyanobacteria	4	0.00612557427259	4	None
+Bacteria	Chloroflexi	18	0.0275650842266	18	None
+Bacteria	Acidobacteria	52	0.0796324655436	52	None
+Bacteria	Proteobacteria	316	0.483920367534	316	None
+Eukaryota : Plastid : Viridiplantae (Plastid)	Chlorophyta (Plastid)	1	0.00153139356815	1	None
+	Total	647	0.990811638591	647
+	Unclassified at phylum level	6	0.00918836140888	6
+
+Assingments at class level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Gemmatimonadetes	Gemmatimonadetes (class)	18	0.0275650842266	18	None
+Armatimonadetes	Armatimonadetes Group 4	1	0.00153139356815	1	None
+Spirochaetes	Spirochaetes (class)	2	0.00306278713629	2	None
+Chlamydiae	Chlamydiae (class)	3	0.00459418070444	3	None
+Verrucomicrobia	OPB35 soil group	3	0.00459418070444	3	None
+Verrucomicrobia	Verrucomicrobiae	1	0.00153139356815	1	None
+Verrucomicrobia	Opitutae	9	0.0137825421133	9	None
+Firmicutes	Clostridia	1	0.00153139356815	1	None
+Firmicutes	Bacilli	10	0.0153139356815	10	None
+Actinobacteria	Actinobacteria (class)	113	0.173047473201	113	None
+Actinobacteria	Thermoleophilia	22	0.0336906584992	22	None
+Actinobacteria	Acidimicrobiia	23	0.0352220520674	23	None
+Bacteroidetes	Cytophagia	6	0.00918836140888	6	None
+Bacteroidetes	Sphingobacteria	38	0.0581929555896	38	None
+Cyanobacteria	Cyanobacteria (class)	4	0.00612557427259	4	None
+Chloroflexi	Thermomicrobia	3	0.00459418070444	3	None
+Chloroflexi	Ktedonobacteria	6	0.00918836140888	6	None
+Chloroflexi	Chloroflexi Subdivision 11 - JG37-AG-4	1	0.00153139356815	1	None
+Chloroflexi	Chloroflexi Subdivision 8 - TK10	2	0.00306278713629	2	None
+Chloroflexi	Caldilineae	1	0.00153139356815	1	None
+Chloroflexi	Chloroflexi Subdivision 6	3	0.00459418070444	3	None
+Chloroflexi	Chloroflexi Subdivision 10	2	0.00306278713629	2	None
+Acidobacteria	Acidobacteria (class)	51	0.0781010719755	51	None
+Acidobacteria	Holophagae	1	0.00153139356815	1	None
+Proteobacteria	Deltaproteobacteria	18	0.0275650842266	18	None
+Proteobacteria	Betaproteobacteria	24	0.0367534456355	24	None
+Proteobacteria	Alphaproteobacteria	202	0.309341500766	202	None
+Proteobacteria	Gammaproteobacteria	67	0.102603369066	67	None
+Chlorophyta (Plastid)	Trebouxiophyceae (Plastid)	1	0.00153139356815	1	None
+	Total	636	0.973966309342	636
+	Unclassified at class level	17	0.0260336906585	17
+
+Assingments at order level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Gemmatimonadetes (class)	AT425-EubC11 terrestrial group	1	0.00153139356815	1	None
+Gemmatimonadetes (class)	Gemmatimonadales	17	0.0260336906585	17	None
+Spirochaetes (class)	Spirochaetales	2	0.00306278713629	2	None
+Chlamydiae (class)	Chlamydiales	1	0.00153139356815	1	None
+Verrucomicrobiae	Verrucomicrobiales	1	0.00153139356815	1	None
+Opitutae	Opitutales	7	0.010719754977	7	None
+Clostridia	Clostridiales	1	0.00153139356815	1	None
+Bacilli	C178B	2	0.00306278713629	2	None
+Bacilli	Bacillales	7	0.010719754977	7	None
+Actinobacteria (class)	Pseudonocardiales	19	0.0290964777948	19	None
+Actinobacteria (class)	Kineosporiales	3	0.00459418070444	3	None
+Actinobacteria (class)	Propionibacteriales	25	0.0382848392037	25	None
+Actinobacteria (class)	Corynebacteriales	15	0.0229709035222	15	None
+Actinobacteria (class)	Streptomycetales	1	0.00153139356815	1	None
+Actinobacteria (class)	Micrococcales	31	0.0474732006126	31	None
+Actinobacteria (class)	Frankiales	4	0.00612557427259	4	None
+Thermoleophilia	Solirubrobacterales	12	0.0183767228178	12	None
+Thermoleophilia	AKIW543	9	0.0137825421133	9	None
+Acidimicrobiia	Acidimicrobiales	22	0.0336906584992	22	None
+Cytophagia	Cytophagales	5	0.00765696784074	5	None
+Sphingobacteria	Sphingobacteriales	35	0.0535987748851	35	None
+Cyanobacteria (class)	MLE1-12	1	0.00153139356815	1	None
+Cyanobacteria (class)	WD272	1	0.00153139356815	1	None
+Cyanobacteria (class)	ML635J-21	1	0.00153139356815	1	None
+Cyanobacteria (class)	Vampirovibrio	1	0.00153139356815	1	None
+Thermomicrobia	JG30-KF-CM45	3	0.00459418070444	3	None
+Ktedonobacteria	Ktedonobacterales	5	0.00765696784074	5	None
+Caldilineae	Caldilineales	1	0.00153139356815	1	None
+Chloroflexi Subdivision 6	S085	3	0.00459418070444	3	None
+Chloroflexi Subdivision 10	KD4-96	2	0.00306278713629	2	None
+Acidobacteria (class)	Acidobacteria group 4	10	0.0153139356815	10	None
+Acidobacteria (class)	Acidobacteria group 2 - DA052	1	0.00153139356815	1	None
+Acidobacteria (class)	Acidobacteria group 13 - KF-JG30-18	1	0.00153139356815	1	None
+Acidobacteria (class)	Acidobacteriales (Acidobacteria group 1)	16	0.0245022970904	16	None
+Acidobacteria (class)	Acidobacteria group 6 (DA023)	9	0.0137825421133	9	None
+Acidobacteria (class)	Acidobacteria group 3	9	0.0137825421133	9	None
+Holophagae	Acidobacteria group 10	1	0.00153139356815	1	None
+Deltaproteobacteria	GR-WP33-30	1	0.00153139356815	1	None
+Deltaproteobacteria	Bdellovibrionales	1	0.00153139356815	1	None
+Deltaproteobacteria	Myxococcales	13	0.0199081163859	13	None
+Betaproteobacteria	SC-I-84	3	0.00459418070444	3	None
+Betaproteobacteria	Nitrosomonadales	4	0.00612557427259	4	None
+Betaproteobacteria	Burkholderiales	14	0.0214395099541	14	None
+Alphaproteobacteria	Caulobacterales	9	0.0137825421133	9	None
+Alphaproteobacteria	Sphingomonadales	18	0.0275650842266	18	None
+Alphaproteobacteria	Rhizobiales	144	0.220520673813	144	None
+Alphaproteobacteria	Rhodospirillales	17	0.0260336906585	17	None
+Gammaproteobacteria	Pseudomonadales	1	0.00153139356815	1	None
+Gammaproteobacteria	Xanthomonadales	63	0.0964777947933	63	None
+Trebouxiophyceae (Plastid)	Chlorellales (Plastid)	1	0.00153139356815	1	None
+	Total	574	0.879019908116	574
+	Unclassified at order level	79	0.120980091884	79
+
+Assingments at family level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Gemmatimonadales	Gemmatimonadaceae	9	0.0137825421133	9	None
+Spirochaetales	Spirochaetaceae	2	0.00306278713629	2	None
+Verrucomicrobiales	Verrucomicrobiaceae	1	0.00153139356815	1	None
+Opitutales	Opitutaceae	5	0.00765696784074	5	None
+Bacillales	Sporolactobacillaceae	2	0.00306278713629	2	None
+Bacillales	Alicyclobacillaceae	1	0.00153139356815	1	None
+Bacillales	Bacillaceae	1	0.00153139356815	1	None
+Pseudonocardiales	Pseudonocardiaceae	15	0.0229709035222	15	None
+Kineosporiales	Kineosporiaceae	3	0.00459418070444	3	None
+Propionibacteriales	Nocardioidaceae	20	0.0306278713629	20	None
+Corynebacteriales	Nocardiaceae	8	0.0122511485452	8	None
+Corynebacteriales	Mycobacteriaceae	4	0.00612557427259	4	None
+Streptomycetales	Streptomycetaceae	1	0.00153139356815	1	None
+Micrococcales	Dermacoccaceae	8	0.0122511485452	8	None
+Micrococcales	Cellulomonadaceae	4	0.00612557427259	4	None
+Micrococcales	Micrococcaceae	5	0.00765696784074	5	None
+Micrococcales	Microbacteriaceae	8	0.0122511485452	8	None
+Frankiales	Geodermatophilaceae	1	0.00153139356815	1	None
+Frankiales	Frankiaceae	1	0.00153139356815	1	None
+Solirubrobacterales	Elev-16S-1332	1	0.00153139356815	1	None
+Solirubrobacterales	480-2	3	0.00459418070444	3	None
+Solirubrobacterales	Patulibacteraceae	2	0.00306278713629	2	None
+Acidimicrobiales	TM214	10	0.0153139356815	10	None
+Acidimicrobiales	Candidatus Microthrix	1	0.00153139356815	1	None
+Cytophagales	Cytophagaceae	5	0.00765696784074	5	None
+Sphingobacteriales	KD3-93	2	0.00306278713629	2	None
+Sphingobacteriales	env.OPS 17	1	0.00153139356815	1	None
+Sphingobacteriales	Chitinophagaceae	24	0.0367534456355	24	None
+Sphingobacteriales	Sphingobacteriaceae	1	0.00153139356815	1	None
+Cyanobacteria (class)	Vampirovibrio	1	0.00153139356815	1	None
+Ktedonobacterales	Chloroflexi bacterium T104	1	0.00153139356815	1	None
+Caldilineales	Caldilineaceae	1	0.00153139356815	1	None
+Acidobacteria group 4	Candidatus Chloracidobacterium	8	0.0122511485452	8	None
+Acidobacteriales (Acidobacteria group 1)	Acidobacteriaceae	10	0.0153139356815	10	None
+Acidobacteria group 3	Bryobacter family incertae sedis	5	0.00765696784074	5	None
+Myxococcales	JG37-AG-15	1	0.00153139356815	1	None
+Myxococcales : Nannocystineae	Haliangiaceae	1	0.00153139356815	1	None
+Myxococcales : Cystobacterineae	Cystobacteraceae	1	0.00153139356815	1	None
+Myxococcales	0319-6G20	1	0.00153139356815	1	None
+Nitrosomonadales	Gallionellaceae	2	0.00306278713629	2	None
+Nitrosomonadales	Nitrosomonadaceae	1	0.00153139356815	1	None
+Burkholderiales	Burkholderiaceae	1	0.00153139356815	1	None
+Burkholderiales	Comamonadaceae	5	0.00765696784074	5	None
+Burkholderiales	Oxalobacteraceae	2	0.00306278713629	2	None
+Caulobacterales	Caulobacteraceae	6	0.00918836140888	6	None
+Caulobacterales	Hyphomonadaceae	1	0.00153139356815	1	None
+Sphingomonadales	Erythrobacteraceae	1	0.00153139356815	1	None
+Sphingomonadales	Sphingomonadaceae	11	0.0168453292496	11	None
+Rhizobiales	DUNssu371	1	0.00153139356815	1	None
+Rhizobiales	KF-JG30-B3	2	0.00306278713629	2	None
+Rhizobiales	Rhizomicrobium Family Incertae Sedis	20	0.0306278713629	20	None
+Rhizobiales	Xanthobacteraceae	24	0.0367534456355	24	None
+Rhizobiales	Beijerinckiaceae	2	0.00306278713629	2	None
+Rhizobiales	Phyllobacteriaceae	5	0.00765696784074	5	None
+Rhizobiales	Hyphomicrobiaceae	22	0.0336906584992	22	None
+Rhizobiales	Methylocystaceae	1	0.00153139356815	1	None
+Rhizobiales	Bradyrhizobiaceae	16	0.0245022970904	16	None
+Rhizobiales	Methylobacteriaceae	3	0.00459418070444	3	None
+Rhodospirillales	wr0007	1	0.00153139356815	1	None
+Rhodospirillales	DA111	4	0.00612557427259	4	None
+Rhodospirillales	Acetobacteraceae	2	0.00306278713629	2	None
+Rhodospirillales	Rhodospirillaceae	2	0.00306278713629	2	None
+Pseudomonadales	Moraxellaceae	1	0.00153139356815	1	None
+Xanthomonadales	Sinobacteraceae	7	0.010719754977	7	None
+Xanthomonadales	Xanthomonadaceae	41	0.062787136294	41	None
+Chlorellales (Plastid)	Chlorellaceae (Plastid)	1	0.00153139356815	1	None
+	Total	364	0.557427258806	364
+	Unclassified at family level	289	0.442572741194	289
+
+Assingments at genus level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Gemmatimonadaceae	Gemmatimonas	1	0.00153139356815	1	None
+Spirochaetaceae	Spirochaeta	2	0.00306278713629	2	None
+Opitutaceae	Opitutus	4	0.00612557427259	4	None
+Alicyclobacillaceae	Alicyclobacillus	1	0.00153139356815	1	None
+Bacillaceae	Bacillus (Bacillaceae)	1	0.00153139356815	1	None
+Pseudonocardiaceae	Pseudonocardia	13	0.0199081163859	13	None
+Kineosporiaceae	Angustibacter	2	0.00306278713629	2	None
+Nocardioidaceae	Marmoricola	2	0.00306278713629	2	None
+Nocardioidaceae	Aeromicrobium	3	0.00459418070444	3	None
+Nocardioidaceae	Nocardioides	9	0.0137825421133	9	None
+Nocardiaceae	Nocardia	2	0.00306278713629	2	None
+Nocardiaceae	Rhodococcus	4	0.00612557427259	4	None
+Mycobacteriaceae	Mycobacterium	3	0.00459418070444	3	None
+Streptomycetaceae	Streptomyces	1	0.00153139356815	1	None
+Dermacoccaceae	Luteipulveratus	8	0.0122511485452	8	None
+Cellulomonadaceae	Demequina	2	0.00306278713629	2	None
+Cellulomonadaceae	Cellulomonas	2	0.00306278713629	2	None
+Micrococcaceae	Arthrobacter	4	0.00612557427259	4	None
+Microbacteriaceae	Leifsonia	1	0.00153139356815	1	None
+Microbacteriaceae	Microbacterium	1	0.00153139356815	1	None
+Frankiaceae	Frankia	1	0.00153139356815	1	None
+Patulibacteraceae	Patulibacter	2	0.00306278713629	2	None
+Acidimicrobiales	Candidatus Microthrix	1	0.00153139356815	1	None
+Cytophagaceae	Flexibacter	4	0.00612557427259	4	None
+Chitinophagaceae	Ferruginibacter	4	0.00612557427259	4	None
+Chitinophagaceae	Sediminibacterium	1	0.00153139356815	1	None
+Sphingobacteriaceae	Mucilaginibacter	1	0.00153139356815	1	None
+Cyanobacteria (class)	Vampirovibrio	1	0.00153139356815	1	None
+Ktedonobacterales	Chloroflexi bacterium T104	1	0.00153139356815	1	None
+Caldilineaceae	Caldilinea	1	0.00153139356815	1	None
+Acidobacteria group 4	Candidatus Chloracidobacterium	8	0.0122511485452	8	None
+Acidobacteriaceae	Acidobacterium	4	0.00612557427259	4	None
+Bryobacter family incertae sedis	Bryobacter	4	0.00612557427259	4	None
+Haliangiaceae	Haliangium	1	0.00153139356815	1	None
+Caulobacteraceae	Phenylobacterium	1	0.00153139356815	1	None
+Caulobacteraceae	Asticcacaulis	2	0.00306278713629	2	None
+Sphingomonadaceae	Sphingomonas	9	0.0137825421133	9	None
+Rhizomicrobium Family Incertae Sedis	Rhizomicrobium	14	0.0214395099541	14	None
+Xanthobacteraceae	Pseudolabrys	9	0.0137825421133	9	None
+Beijerinckiaceae	Metyhlovirgula	1	0.00153139356815	1	None
+Phyllobacteriaceae	Nitratireductor	1	0.00153139356815	1	None
+Phyllobacteriaceae	Mesorhizobium	3	0.00459418070444	3	None
+Hyphomicrobiaceae	Bauldia	1	0.00153139356815	1	None
+Hyphomicrobiaceae	Devosia	3	0.00459418070444	3	None
+Hyphomicrobiaceae	Hyphomicrobium	7	0.010719754977	7	None
+Bradyrhizobiaceae	Bradyrhizobium	8	0.0122511485452	8	None
+Bradyrhizobiaceae	Rhodopseudomonas	1	0.00153139356815	1	None
+Methylobacteriaceae	Methylobacterium	2	0.00306278713629	2	None
+Moraxellaceae	Acinetobacter	1	0.00153139356815	1	None
+Xanthomonadaceae	Luteimonas	1	0.00153139356815	1	None
+Xanthomonadaceae	Dokdonella	2	0.00306278713629	2	None
+Xanthomonadaceae	Rhodanobacter	22	0.0336906584992	22	None
+Xanthomonadaceae	Pseudoxanthomonas	2	0.00306278713629	2	None
+Xanthomonadaceae	Thermomonas	1	0.00153139356815	1	None
+	Total	191	0.292496171516	191
+	Unclassified at genus level	462	0.707503828484	462
+
+Assingments at species level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Patulibacter	Rubrobacteridae bacterium Gsoil 1167	1	0.00153139356815	1	None
+Ktedonobacterales	Chloroflexi bacterium T104	1	0.00153139356815	1	None
+Rhodanobacter	Xanthomonadaceae bacterium Ellin7015	5	0.00765696784074	5	None
+	Total	7	0.010719754977	7
+	Unclassified at species level	646	0.989280245023	646
+

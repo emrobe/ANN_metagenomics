@@ -1,0 +1,185 @@
+Assingments at base level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+root	No hits	84	0.0917030567686	84	None
+root	Cellular organisms	832	0.908296943231	832	None
+	Total	916	1.0	916
+	Unclassified at base level	0	0.0	0
+
+Assingments at domain level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Cellular organisms	Archaea	20	0.0218340611354	20	None
+Cellular organisms	Bacteria	806	0.879912663755	806	None
+Cellular organisms	Eukaryota	6	0.00655021834061	6	None
+	Total	832	0.908296943231	832
+	Unclassified at domain level	84	0.0917030567686	84
+
+Assingments at phylum level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Archaea	Thaumarchaeota	1	0.00109170305677	1	None
+Archaea	Euryarchaeota	19	0.0207423580786	19	None
+Bacteria	Candidate division TM7	1	0.00109170305677	1	None
+Bacteria	Lentisphaerae	1	0.00109170305677	1	None
+Bacteria	Chlamydiae	1	0.00109170305677	1	None
+Bacteria	BD1-5	2	0.00218340611354	2	None
+Bacteria	SAR406 clade(Marine group A)	10	0.0109170305677	10	None
+Bacteria	Verrucomicrobia	1	0.00109170305677	1	None
+Bacteria	Candidate division OD1	3	0.00327510917031	3	None
+Bacteria	Actinobacteria	39	0.042576419214	39	None
+Bacteria	Bacteroidetes	49	0.0534934497817	49	None
+Bacteria	Cyanobacteria	113	0.123362445415	113	None
+Bacteria	Chloroflexi	1	0.00109170305677	1	None
+Bacteria	Planctomycetes	2	0.00218340611354	2	None
+Bacteria	Proteobacteria	578	0.631004366812	578	None
+Eukaryota : Plastid : Viridiplantae (Plastid)	Chlorophyta (Plastid)	1	0.00109170305677	1	None
+Eukaryota : Nucleus : Viridiplantae	Chlorophyta	2	0.00218340611354	2	None
+Eukaryota : Nucleus : Alveolata	Dinophyceae	3	0.00327510917031	3	None
+	Total	827	0.902838427948	827
+	Unclassified at phylum level	89	0.0971615720524	89
+
+Assingments at class level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Thaumarchaeota	Marine Group I (Group I.1a)	1	0.00109170305677	1	None
+Euryarchaeota	Halobacteria	4	0.00436681222707	4	None
+Euryarchaeota	Thermoplasmata	15	0.0163755458515	15	None
+Lentisphaerae	Lentisphaeria	1	0.00109170305677	1	None
+Chlamydiae	Chlamydiae (class)	1	0.00109170305677	1	None
+Verrucomicrobia	Opitutae	1	0.00109170305677	1	None
+Actinobacteria	Actinobacteria (class)	3	0.00327510917031	3	None
+Actinobacteria	Acidimicrobiia	36	0.0393013100437	36	None
+Bacteroidetes	Cytophagia	5	0.00545851528384	5	None
+Bacteroidetes	Flavobacteria	43	0.046943231441	43	None
+Cyanobacteria	Cyanobacteria (class)	112	0.122270742358	112	None
+Chloroflexi	Chloroflexi Subdivision 5 - SAR202 clade	1	0.00109170305677	1	None
+Planctomycetes	Phycisphaerae	1	0.00109170305677	1	None
+Proteobacteria	SPOTSOCT00	2	0.00218340611354	2	None
+Proteobacteria	Deltaproteobacteria	5	0.00545851528384	5	None
+Proteobacteria	Betaproteobacteria	5	0.00545851528384	5	None
+Proteobacteria	Alphaproteobacteria	496	0.541484716157	496	None
+Proteobacteria	Gammaproteobacteria	69	0.075327510917	69	None
+Chlorophyta (Plastid)	Prasinophyceae (Plastid)	1	0.00109170305677	1	None
+Chlorophyta	Prasinophyceae	2	0.00218340611354	2	None
+Eukaryota : Nucleus : Alveolata	Dinophyceae	3	0.00327510917031	3	None
+	Total	807	0.881004366812	807
+	Unclassified at class level	109	0.118995633188	109
+
+Assingments at order level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Marine Group I (Group I.1a)	Cenarchaeales	1	0.00109170305677	1	None
+Halobacteria	Halobacteriales	2	0.00218340611354	2	None
+Thermoplasmata	Thermoplasmatales	14	0.0152838427948	14	None
+Lentisphaeria	R76-B128	1	0.00109170305677	1	None
+Opitutae	MB11C04 marine group	1	0.00109170305677	1	None
+Actinobacteria (class)	PeM15	3	0.00327510917031	3	None
+Acidimicrobiia	Acidimicrobiales	36	0.0393013100437	36	None
+Cytophagia	Cytophagales	5	0.00545851528384	5	None
+Flavobacteria	Flavobacteriales	42	0.0458515283843	42	None
+Cyanobacteria (class)	ML635J-21	6	0.00655021834061	6	None
+Cyanobacteria (class)	Synechococcales	105	0.114628820961	105	None
+Phycisphaerae	Phycisphaerales	1	0.00109170305677	1	None
+SPOTSOCT00	5m83	2	0.00218340611354	2	None
+Deltaproteobacteria	SAR324 clade(Marine group B)	3	0.00327510917031	3	None
+Deltaproteobacteria	Myxococcales	2	0.00218340611354	2	None
+Betaproteobacteria	Burkholderiales	5	0.00545851528384	5	None
+Alphaproteobacteria	Sphingomonadales	3	0.00327510917031	3	None
+Alphaproteobacteria	OCS116 clade	6	0.00655021834061	6	None
+Alphaproteobacteria	Rickettsiales	28	0.0305676855895	28	None
+Alphaproteobacteria	Rhodobacterales	114	0.124454148472	114	None
+Alphaproteobacteria	Rhodospirillales	28	0.0305676855895	28	None
+Alphaproteobacteria	SAR11 clade	307	0.335152838428	307	None
+Gammaproteobacteria	KI89A clade	4	0.00436681222707	4	None
+Gammaproteobacteria	Legionellales	3	0.00327510917031	3	None
+Gammaproteobacteria	Vibrionales	1	0.00109170305677	1	None
+Gammaproteobacteria	Marinicella Order Incertae Sedis	2	0.00218340611354	2	None
+Gammaproteobacteria	Pseudomonadales	2	0.00218340611354	2	None
+Gammaproteobacteria	Alteromonadales	7	0.00764192139738	7	None
+Gammaproteobacteria	Oceanospirillales	47	0.0513100436681	47	None
+Gammaproteobacteria	Thiotrichales	1	0.00109170305677	1	None
+Prasinophyceae (Plastid)	Mamiellales (Plastid)	1	0.00109170305677	1	None
+Prasinophyceae	Mamiellales	2	0.00218340611354	2	None
+	Total	785	0.856986899563	785
+	Unclassified at order level	131	0.143013100437	131
+
+Assingments at family level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Cenarchaeales	Cenarchaeaceae	1	0.00109170305677	1	None
+Halobacteriales	Deep Sea Hydrothermal Vent Gp 6(DHVEG-6)	1	0.00109170305677	1	None
+Thermoplasmatales	Marine Group II	12	0.0131004366812	12	None
+Acidimicrobiales	Acidimicrobiaceae	1	0.00109170305677	1	None
+Acidimicrobiales	OCS155 marine group	32	0.0349344978166	32	None
+Acidimicrobiales	Sva0996 marine group	3	0.00327510917031	3	None
+Cytophagales	Flammeovirgaceae	4	0.00436681222707	4	None
+Flavobacteriales	NS9 marine group	18	0.0196506550218	18	None
+Flavobacteriales	Flavobacteriaceae	12	0.0131004366812	12	None
+Flavobacteriales	Cryomorphaceae	9	0.00982532751092	9	None
+Synechococcales	Synechococcaceae	104	0.113537117904	104	None
+Phycisphaerales	Phycisphaeraceae	1	0.00109170305677	1	None
+Myxococcales	Cystobacterineae	2	0.00218340611354	2	None
+Burkholderiales	Comamonadaceae	1	0.00109170305677	1	None
+Burkholderiales	Alcaligenaceae	4	0.00436681222707	4	None
+Sphingomonadales	Sphingomonadaceae	3	0.00327510917031	3	None
+Rickettsiales	S25-593	7	0.00764192139738	7	None
+Rickettsiales	SAR116 clade	21	0.0229257641921	21	None
+Rhodobacterales	Rhodobacteraceae	114	0.124454148472	114	None
+Rhodospirillales	Rhodospirillaceae	27	0.0294759825328	27	None
+SAR11 clade	Surface 4	5	0.00545851528384	5	None
+SAR11 clade	Surface 2	13	0.014192139738	13	None
+SAR11 clade	Surface 1	201	0.21943231441	201	None
+SAR11 clade	Deep 2	5	0.00545851528384	5	None
+Legionellales	Coxiellaceae	2	0.00218340611354	2	None
+Vibrionales	Vibrionaceae	1	0.00109170305677	1	None
+Marinicella Order Incertae Sedis	Marinicella Family Incertae Sedis	2	0.00218340611354	2	None
+Pseudomonadales	Moraxellaceae	2	0.00218340611354	2	None
+Alteromonadales	Alteromonadaceae	7	0.00764192139738	7	None
+Oceanospirillales	Halomonadaceae	2	0.00218340611354	2	None
+Oceanospirillales	OM182 clade	2	0.00218340611354	2	None
+Oceanospirillales	Oceanospirillaceae	3	0.00327510917031	3	None
+Oceanospirillales	SAR86 clade	40	0.0436681222707	40	None
+Thiotrichales	Piscirickettsiaceae	1	0.00109170305677	1	None
+Mamiellales	Micromonas	1	0.00109170305677	1	None
+	Total	664	0.724890829694	664
+	Unclassified at family level	252	0.275109170306	252
+
+Assingments at genus level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Cenarchaeaceae	Cenarchaeum	1	0.00109170305677	1	None
+Flammeovirgaceae	Reichenbachiella	1	0.00109170305677	1	None
+Flammeovirgaceae	Marinoscillum	3	0.00327510917031	3	None
+Flavobacteriaceae	NS2b marine group	4	0.00436681222707	4	None
+Flavobacteriaceae	NS5 marine group	4	0.00436681222707	4	None
+Flavobacteriaceae	NS4 marine group	4	0.00436681222707	4	None
+Cryomorphaceae	NS7 marine group	3	0.00327510917031	3	None
+Cryomorphaceae	Owenweeksia	4	0.00436681222707	4	None
+Synechococcaceae	Prochlorococcus	47	0.0513100436681	47	None
+Alcaligenaceae	MWH-UniP1 aquatic group	4	0.00436681222707	4	None
+Sphingomonadaceae	Novosphingobium (Sphingomonadaceae)	2	0.00218340611354	2	None
+Sphingomonadaceae	Sphingomonas	1	0.00109170305677	1	None
+Rhodospirillaceae	OM75 clade	1	0.00109170305677	1	None
+Rhodospirillaceae	AEGEAN-169 marine group	17	0.0185589519651	17	None
+Rhodospirillaceae	Defluviicoccus	2	0.00218340611354	2	None
+Surface 1	Candidatus Pelagibacter	1	0.00109170305677	1	None
+Coxiellaceae	Coxiella	2	0.00218340611354	2	None
+Vibrionaceae	Vibrio	1	0.00109170305677	1	None
+Marinicella Family Incertae Sedis	Marinicella	2	0.00218340611354	2	None
+Alteromonadaceae	SAR92 clade	6	0.00655021834061	6	None
+Alteromonadaceae	OM60(NOR5) clade	1	0.00109170305677	1	None
+Halomonadaceae	Chromohalobacter	2	0.00218340611354	2	None
+Oceanospirillaceae	Pseudospirillum	3	0.00327510917031	3	None
+Mamiellales	Micromonas	1	0.00109170305677	1	None
+	Total	117	0.127729257642	117
+	Unclassified at genus level	799	0.872270742358	799
+
+Assingments at species level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Candidatus Pelagibacter	Candidatus Pelagibacter ubique HTCC1062	1	0.00109170305677	1	None
+Micromonas	Micromonas pusilla nucleus	1	0.00109170305677	1	None
+	Total	2	0.00218340611354	2
+	Unclassified at species level	914	0.997816593886	914
+

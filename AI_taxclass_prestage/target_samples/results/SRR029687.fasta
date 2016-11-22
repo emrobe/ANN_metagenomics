@@ -1,0 +1,123 @@
+Assingments at base level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+root	No hits	3	0.00683371298405	3	None
+root	Cellular organisms	436	0.993166287016	436	None
+	Total	439	1.0	439
+	Unclassified at base level	0	0.0	0
+
+Assingments at domain level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Cellular organisms	Bacteria	435	0.990888382688	435	None
+Cellular organisms	Eukaryota	1	0.00227790432802	1	None
+	Total	436	0.993166287016	436
+	Unclassified at domain level	3	0.00683371298405	3
+
+Assingments at phylum level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Bacteria	Verrucomicrobia	26	0.0592255125285	26	None
+Bacteria	Firmicutes	285	0.649202733485	285	None
+Bacteria	Actinobacteria	6	0.0136674259681	6	None
+Bacteria	Bacteroidetes	110	0.250569476082	110	None
+Bacteria	Proteobacteria	7	0.0159453302961	7	None
+Eukaryota : Nucleus : stramenopiles	Blastocystis	1	0.00227790432802	1	None
+	Total	435	0.990888382688	435
+	Unclassified at phylum level	4	0.00911161731207	4
+
+Assingments at class level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Verrucomicrobia	Verrucomicrobiae	24	0.0546697038724	24	None
+Verrucomicrobia	Opitutae	2	0.00455580865604	2	None
+Firmicutes	Clostridia	284	0.646924829157	284	None
+Firmicutes	Erysipelotrichi	1	0.00227790432802	1	None
+Actinobacteria	Coriobacteriia	4	0.00911161731207	4	None
+Actinobacteria	Actinobacteria (class)	2	0.00455580865604	2	None
+Bacteroidetes	Bacteroidia	109	0.248291571754	109	None
+Proteobacteria	Deltaproteobacteria	3	0.00683371298405	3	None
+Proteobacteria	Alphaproteobacteria	3	0.00683371298405	3	None
+Proteobacteria	Gammaproteobacteria	1	0.00227790432802	1	None
+Eukaryota : Nucleus : stramenopiles	Blastocystis	1	0.00227790432802	1	None
+	Total	434	0.98861047836	434
+	Unclassified at class level	5	0.0113895216401	5
+
+Assingments at order level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Verrucomicrobiae	Verrucomicrobiales	24	0.0546697038724	24	None
+Opitutae	vadinHA64	1	0.00227790432802	1	None
+Clostridia	Clostridiales	283	0.644646924829	283	None
+Erysipelotrichi	Erysipelotrichales	1	0.00227790432802	1	None
+Coriobacteriia	Coriobacteriales	4	0.00911161731207	4	None
+Actinobacteria (class)	Bifidobacteriales	2	0.00455580865604	2	None
+Bacteroidia	Bacteroidales	109	0.248291571754	109	None
+Deltaproteobacteria	Desulfovibrionales	3	0.00683371298405	3	None
+Alphaproteobacteria	Rhodospirillales	3	0.00683371298405	3	None
+Gammaproteobacteria	Enterobacteriales	1	0.00227790432802	1	None
+Eukaryota : Nucleus : stramenopiles	Blastocystis	1	0.00227790432802	1	None
+	Total	432	0.984054669704	432
+	Unclassified at order level	7	0.0159453302961	7
+
+Assingments at family level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Verrucomicrobiales	Akkermansiaceae	24	0.0546697038724	24	None
+Clostridiales	Peptococcaceae	1	0.00227790432802	1	None
+Clostridiales	Family XIII Incertae Sedis	1	0.00227790432802	1	None
+Clostridiales	Ruminococcaceae	189	0.430523917995	189	None
+Clostridiales	Veillonellaceae	5	0.0113895216401	5	None
+Clostridiales	Lachnospiraceae	70	0.159453302961	70	None
+Erysipelotrichales	Erysipelotrichaceae	1	0.00227790432802	1	None
+Coriobacteriales	Coriobacteriaceae	4	0.00911161731207	4	None
+Bifidobacteriales	Bifidobacteriaceae	2	0.00455580865604	2	None
+Bacteroidales	Porphyromonadaceae	24	0.0546697038724	24	None
+Bacteroidales	Rikenellaceae	5	0.0113895216401	5	None
+Bacteroidales	Bacteroidaceae	66	0.150341685649	66	None
+Bacteroidales	S24-7	10	0.0227790432802	10	None
+Desulfovibrionales	Desulfovibrionaceae	3	0.00683371298405	3	None
+Rhodospirillales	Rhodospirillaceae	3	0.00683371298405	3	None
+Enterobacteriales	Enterobacteriaceae	1	0.00227790432802	1	None
+Eukaryota : Nucleus : stramenopiles	Blastocystis	1	0.00227790432802	1	None
+	Total	410	0.933940774487	410
+	Unclassified at family level	29	0.0660592255125	29
+
+Assingments at genus level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Akkermansiaceae	Akkermansia	23	0.0523917995444	23	None
+Ruminococcaceae	Faecalibacterium	45	0.102505694761	45	None
+Ruminococcaceae	Oscillibacter	1	0.00227790432802	1	None
+Ruminococcaceae	Anaerotruncus	1	0.00227790432802	1	None
+Ruminococcaceae	Ruminococcaceae Incertae Sedis	27	0.0615034168565	27	None
+Ruminococcaceae	Oscillospira	1	0.00227790432802	1	None
+Ruminococcaceae	Subdoligranulum	4	0.00911161731207	4	None
+Ruminococcaceae	Ruminococcus	5	0.0113895216401	5	None
+Veillonellaceae	Dialister	4	0.00911161731207	4	None
+Lachnospiraceae	Anaerostipes	3	0.00683371298405	3	None
+Lachnospiraceae	Roseburia	1	0.00227790432802	1	None
+Lachnospiraceae	Lachnospiraceae Incertae Sedis	12	0.0273348519362	12	None
+Coriobacteriaceae	Slackia	1	0.00227790432802	1	None
+Bifidobacteriaceae	Bifidobacterium	2	0.00455580865604	2	None
+Porphyromonadaceae	Butyricimonas	1	0.00227790432802	1	None
+Porphyromonadaceae	Barnesiella	14	0.0318906605923	14	None
+Porphyromonadaceae	Parabacteroides	7	0.0159453302961	7	None
+Rikenellaceae	Alistipes	5	0.0113895216401	5	None
+Bacteroidaceae	Bacteroides	66	0.150341685649	66	None
+Desulfovibrionaceae	Desulfovibrio	2	0.00455580865604	2	None
+Rhodospirillaceae	Thalassospira	3	0.00683371298405	3	None
+Eukaryota : Nucleus : stramenopiles	Blastocystis	1	0.00227790432802	1	None
+	Total	229	0.521640091116	229
+	Unclassified at genus level	210	0.478359908884	210
+
+Assingments at species level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Akkermansia	Akkermansia muciniphila ATCC BAA-835	1	0.00227790432802	1	None
+Slackia	Slackia isoflavoniconvertens	1	0.00227790432802	1	None
+Alistipes	Alistipes putredinis DSM 17216	2	0.00455580865604	2	None
+Bacteroides	Bacteroides vulgatus ATCC 8482	3	0.00683371298405	3	None
+	Total	7	0.0159453302961	7
+	Unclassified at species level	432	0.984054669704	432
+

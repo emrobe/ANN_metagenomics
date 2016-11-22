@@ -1,0 +1,142 @@
+root: 280
+  No hits: 31
+  Cellular organisms: 249
+    Archaea: 2
+      Thaumarchaeota: 2
+        Soil Crenarchaeotic Group (SCG) Group I.1b: 2
+    Bacteria: 242
+      SM2F11: 1
+      Gemmatimonadetes: 9
+        Gemmatimonadetes (class): 8
+          AT425-EubC11 terrestrial group: 1
+          S0134 terrestrial group: 2
+          Gemmatimonadales: 5
+            Gemmatimonadaceae: 5
+              Unknown Gemmatimonadaceae genus: 1
+        Unknown Gemmatimonadetes class: 1
+      Armatimonadetes: 3
+      Candidate division TM7: 16
+      Chlamydiae: 2
+        Chlamydiae (class): 2
+          Chlamydiales: 1
+          Unknown Chlamydiae (class) order: 1
+      Verrucomicrobia: 2
+        OPB35 soil group: 1
+        Opitutae: 1
+          Puniceicoccales: 1
+            Unknown Puniceicoccales family: 1
+      Actinobacteria: 19
+        TakashiAC-B11: 3
+        Nitriliruptoria: 3
+          Euzebyales: 3
+            Euzebyaceae: 3
+              Euzebya: 2
+                Euzebya tangerina: 1
+              Unknown Euzebyaceae genus: 1
+        Rubrobacteria: 1
+          Rubrobacterales: 1
+            Rubrobacteriaceae: 1
+              Rubrobacter: 1
+        Actinobacteria (class): 7
+          Pseudonocardiales: 1
+            Pseudonocardiaceae: 1
+              Unknown Pseudonocardiaceae genus: 1
+          Propionibacteriales: 2
+            Nocardioidaceae: 1
+              Nocardioides: 1
+            Unknown Propionibacteriales family: 1
+          Corynebacteriales: 1
+            Mycobacteriaceae: 1
+              Mycobacterium: 1
+          Frankiales: 2
+            Geodermatophilaceae: 1
+              Blastococcus: 1
+        Thermoleophilia: 3
+          Solirubrobacterales: 3
+            480-2: 1
+            Patulibacteraceae: 2
+              Patulibacter: 2
+        Acidimicrobiia: 1
+          Acidimicrobiales: 1
+      Bacteroidetes: 155
+        Cytophagia: 17
+          Cytophagales: 17
+            Cyclobacteriaceae: 3
+              Algoriphagus: 1
+            Flammeovirgaceae: 1
+              Marivirga: 1
+            Cytophagaceae: 11
+              Adhaeribacter: 1
+              Sporocytophaga: 1
+              Hymenobacter: 1
+              Flexibacter: 2
+              Unknown Cytophagaceae genus: 4
+            Unknown Cytophagales family: 2
+        Sphingobacteria: 6
+          Sphingobacteriales: 4
+            Chitinophagaceae: 3
+              Flavisolibacter: 2
+          Unknown Sphingobacteria order: 2
+        Flavobacteria: 132
+          Flavobacteriales: 132
+            Flavobacteriaceae: 126
+              Gillisia: 67
+              Salinimicrobium: 11
+              Gramella: 1
+              Unknown Flavobacteriaceae genus: 11
+            Unknown Flavobacteriales family: 5
+      Cyanobacteria: 7
+        Cyanobacteria (class): 7
+          Oscillatoriales: 7
+            Phormidiaceae: 7
+              Microcoleus: 4
+      Chloroflexi: 3
+        Thermomicrobia: 3
+          JG30-KF-CM45: 3
+      Acidobacteria: 1
+        Acidobacteria (class): 1
+          Acidobacteria group 6 (DA023): 1
+      Proteobacteria: 23
+        Betaproteobacteria: 2
+          Burkholderiales: 1
+            Alcaligenaceae: 1
+        Alphaproteobacteria: 15
+          Sphingomonadales: 4
+            Erythrobacteraceae: 3
+              Altererythrobacter: 1
+              Erythrobacter: 2
+            Sphingomonadaceae: 1
+              Sphingomonas: 1
+          Rhizobiales: 8
+            DUNssu044: 3
+            Phyllobacteriaceae: 3
+              Mesorhizobium: 2
+            Rhodobiaceae: 2
+              Rhodobium: 2
+          Rhodobacterales: 1
+            Rhodobacteraceae: 1
+          Unknown Alphaproteobacteria order: 1
+        Gammaproteobacteria: 6
+          Oceanospirillales: 4
+            Oceanospirillaceae: 4
+              Pseudospirillum: 3
+              Unknown Oceanospirillaceae genus: 1
+          Xanthomonadales: 2
+            Sinobacteraceae: 1
+            Xanthomonadaceae: 1
+              Unknown Xanthomonadaceae genus: 1
+    Eukaryota: 5
+      Mitochondrion: 2
+        Fungi (Mitochondrion): 2
+          Dikarya (Mitochondrion): 2
+            Unknown Dikarya (Mitochondrion) order: 2
+      Nucleus: 3
+        Choanoflagellida: 1
+        Amoebozoa: 1
+          Tubulinea: 1
+            Euamoebida: 1
+              Unknown Euamoebida family: 1
+        Metazoa: 1
+          Chordata: 1
+            Craniata (Chordata): 1
+              Vertebrata: 1

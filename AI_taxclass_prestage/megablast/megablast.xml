@@ -1,0 +1,52 @@
+<tool id="megablast_wrapper_script 1" name="Megablast" version="">
+  <description>Perform BLAST alignment search against nucleotide database using Megablast</description>
+  <command interpreter="bash">
+		megablast.sh $input $database $output $iden_cutoff $evalue_cutoff $filter_query
+  </command>
+  <inputs>
+  <param name="input" format="fasta" type="data" label="Input fasta file" help="Input fasta file containing query sequence(s).">
+  </param>
+  <param name="database" type="select" label="Select nucleotide database" help="Select the nucleotide database to perform Megablast alignment search against.">
+    <options from_file="blastdb.loc">
+      <column name="name" index="1" />
+      <column name="value" index="2" />
+    </options>
+  </param>
+  <param name="iden_cutoff" type="float" size="15" value="0" label="Percent identity cutoff" help="no cutoff if 0" />
+  <param name="evalue_cutoff" type="float" size="15" value="0.001" label="E-value cutoff" />
+  <param name="filter_query" type="select" label="Filter out low complexity regions?">
+    <option value="yes">Yes</option>
+    <option value="no" selected="true">No</option>
+  </param>
+  </inputs>
+  
+  <outputs>
+    <data name="output" format="xml" label="Megablast on ${on_string}"/>
+  </outputs>
+
+  <help>
+  
+.. class:: warningmark
+  
+**Note:** Database searches may take substantial amount of time. For large input datasets it is advisable to allow overnight processing.
+
+-----
+
+**Megablast**
+  
+Megablast uses the greedy algorithm for nucleotide sequence alignment search. This program is optimized for aligning sequences that **differ slightly** as a result of sequencing or other similar "errors". Megablast is also able to efficiently handle much longer DNA sequences than the blastn program of traditional BLAST algorithm.
+
+-----
+
+**Output**
+  
+The output from the Megablast sequence alignment search will be given as an XML file. This file can be converted to tabular form with the tool Parse blast XML output.
+  
+-----
+
+**Reference**
+
+Zhang et al. A Greedy Algorithm for Aligning DNA Sequences. 2000. JCB: 203-214.
+	
+  </help>
+</tool>
