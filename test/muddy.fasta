@@ -1,0 +1,575 @@
+Assingments at base level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+root	No hits	223	0.0678636640292	223	None
+root	Cellular organisms	3063	0.932136335971	3063	None
+	Total	3286	1.0	3286
+	Unclassified at base level	0	0.0	0
+
+Assingments at domain level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Cellular organisms	Archaea	157	0.0477784540475	157	None
+Cellular organisms	Bacteria	2798	0.85149117468	2798	None
+Cellular organisms	Eukaryota	108	0.0328667072428	108	None
+	Total	3063	0.932136335971	3063
+	Unclassified at domain level	223	0.0678636640292	223
+
+Assingments at phylum level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Archaea	Crenarchaeota	5	0.0015216068168	5	None
+Archaea	Thaumarchaeota	82	0.0249543517955	82	None
+Archaea	Euryarchaeota	69	0.0209981740718	69	None
+Bacteria	JL-ETNP-Z39	3	0.000912964090079	3	None
+Bacteria	PAUC34f	6	0.00182592818016	6	None
+Bacteria	Candidate division GN04 (TA06)	15	0.0045648204504	15	None
+Bacteria	Candidate division SPAM	1	0.00030432136336	1	None
+Bacteria	Candidate division TM6	11	0.00334753499696	11	None
+Bacteria	Candidate division WS3	30	0.00912964090079	30	None
+Bacteria	Candidate division OP11	21	0.00639074863055	21	None
+Bacteria	Fibrobacteres	4	0.00121728545344	4	None
+Bacteria	Candidate division OP3	30	0.00912964090079	30	None
+Bacteria	Candidate division NC10	8	0.00243457090688	8	None
+Bacteria	Candidate Division Caldithrix	14	0.00426049908704	14	None
+Bacteria	Candidate division BRC1	26	0.00791235544735	26	None
+Bacteria	Elusimicrobia	4	0.00121728545344	4	None
+Bacteria	Gemmatimonadetes	40	0.0121728545344	40	None
+Bacteria	Armatimonadetes	4	0.00121728545344	4	None
+Bacteria	Candidate division TM7	1	0.00030432136336	1	None
+Bacteria	Chlorobi	17	0.00517346317712	17	None
+Bacteria	Spirochaetes	19	0.00578210590383	19	None
+Bacteria	Halanaerobiales phylum incertae sedis	5	0.0015216068168	5	None
+Bacteria	Lentisphaerae	45	0.0136944613512	45	None
+Bacteria	Candidate Division OP8	5	0.0015216068168	5	None
+Bacteria	Chlamydiae	10	0.0030432136336	10	None
+Bacteria	BD1-5	4	0.00121728545344	4	None
+Bacteria	Nitrospirae	52	0.0158247108947	52	None
+Bacteria	SAR406 clade(Marine group A)	2	0.000608642726719	2	None
+Bacteria	Verrucomicrobia	25	0.00760803408399	25	None
+Bacteria	Candidate division OD1	26	0.00791235544735	26	None
+Bacteria	Fusobacteria	11	0.00334753499696	11	None
+Bacteria	Firmicutes	22	0.00669506999391	22	None
+Bacteria	Actinobacteria	46	0.0139987827145	46	None
+Bacteria	Bacteroidetes	163	0.0496043822276	163	None
+Bacteria	Chloroflexi	102	0.0310407790627	102	None
+Bacteria	Planctomycetes	408	0.124163116251	408	None
+Bacteria	Acidobacteria	130	0.0395617772368	130	None
+Bacteria	Proteobacteria	1454	0.442483262325	1454	None
+Eukaryota : Plastid	stramenopiles (Plastid)	13	0.00395617772368	13	None
+Eukaryota : Mitochondrion : Viridiplantae (Mitochondrion)	Streptophyta (Mitochondrion)	2	0.000608642726719	2	None
+Eukaryota : Nucleus : Euglenozoa	Euglenida	2	0.000608642726719	2	None
+Eukaryota : Nucleus : Rhizaria	unclassified Rhizaria	1	0.00030432136336	1	None
+Eukaryota : Nucleus : Rhizaria	Cercozoa	15	0.0045648204504	15	None
+Eukaryota : Nucleus : stramenopiles	Bacillariophyta	43	0.0130858186245	43	None
+Eukaryota : Nucleus : Alveolata	Ciliophora	2	0.000608642726719	2	None
+Eukaryota : Nucleus : Alveolata	Dinophyceae	1	0.00030432136336	1	None
+Eukaryota : Nucleus : Metazoa	Hemichordata	1	0.00030432136336	1	None
+Eukaryota : Nucleus : Metazoa	Nemertea	1	0.00030432136336	1	None
+Eukaryota : Nucleus : Metazoa	Nematoda	4	0.00121728545344	4	None
+Eukaryota : Nucleus : Metazoa	Annelida	4	0.00121728545344	4	None
+Eukaryota : Nucleus : Metazoa	Platyhelminthes	4	0.00121728545344	4	None
+Eukaryota : Nucleus : Metazoa	Arthropoda	2	0.000608642726719	2	None
+	Total	3015	0.91752891053	3015
+	Unclassified at phylum level	271	0.0824710894705	271
+
+Assingments at class level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Crenarchaeota	Marine Benthic Group B - Deep Sea Archaeal Group (DSAG)	5	0.0015216068168	5	None
+Thaumarchaeota	Group C3 - Group 1.2	5	0.0015216068168	5	None
+Thaumarchaeota	Marine Group I (Group I.1a)	77	0.0234327449787	77	None
+Euryarchaeota	Methanobacteria	1	0.00030432136336	1	None
+Euryarchaeota	Halobacteria	60	0.0182592818016	60	None
+Euryarchaeota	Thermoplasmata	4	0.00121728545344	4	None
+Fibrobacteres	Fibrobacteria	4	0.00121728545344	4	None
+Candidate division OP3	OP3 subdivision I (NPL-UPA2)	6	0.00182592818016	6	None
+Candidate Division Caldithrix	Caldithrix	8	0.00243457090688	8	None
+Candidate Division Caldithrix	LCP-89	1	0.00030432136336	1	None
+Elusimicrobia	Elusimicrobia (class)	4	0.00121728545344	4	None
+Gemmatimonadetes	Gemmatimonadetes (class)	40	0.0121728545344	40	None
+Armatimonadetes	Armatimonadetes Group 5	1	0.00030432136336	1	None
+Chlorobi	Ignavibacteria	17	0.00517346317712	17	None
+Spirochaetes	Spirochaetes (class)	19	0.00578210590383	19	None
+Halanaerobiales phylum incertae sedis	Halanaerobiales class incertae sedis	4	0.00121728545344	4	None
+Lentisphaerae	Lentisphaeria	45	0.0136944613512	45	None
+Chlamydiae	Chlamydiae (class)	10	0.0030432136336	10	None
+Nitrospirae : Nitrospira	Nitrospirales	49	0.0149117468046	49	None
+Verrucomicrobia	OPB35 soil group	2	0.000608642726719	2	None
+Verrucomicrobia	Verrucomicrobiae	19	0.00578210590383	19	None
+Verrucomicrobia	Opitutae	4	0.00121728545344	4	None
+Fusobacteria	Fusobacteria (class)	11	0.00334753499696	11	None
+Firmicutes	Clostridia	18	0.00547778454047	18	None
+Firmicutes	Bacilli	3	0.000912964090079	3	None
+Actinobacteria	OPB41	6	0.00182592818016	6	None
+Actinobacteria	Coriobacteriia	1	0.00030432136336	1	None
+Actinobacteria	Acidimicrobiia	39	0.011868533171	39	None
+Bacteroidetes	SB-1	7	0.00213024954352	7	None
+Bacteroidetes	VC2.1 Bac22	1	0.00030432136336	1	None
+Bacteroidetes	BD2-2	27	0.00821667681071	27	None
+Bacteroidetes	Rhodothermaceae incertae sedis	3	0.000912964090079	3	None
+Bacteroidetes	vadinHA17	3	0.000912964090079	3	None
+Bacteroidetes	Cytophagia	41	0.0124771758977	41	None
+Bacteroidetes	Bacteroidia	4	0.00121728545344	4	None
+Bacteroidetes	Sphingobacteria	11	0.00334753499696	11	None
+Bacteroidetes	Flavobacteria	59	0.0179549604382	59	None
+Chloroflexi	Ktedonobacteria	3	0.000912964090079	3	None
+Chloroflexi	Chloroflexi Subdivision 13	3	0.000912964090079	3	None
+Chloroflexi	Chloroflexi Subdivision 8 - TK10	1	0.00030432136336	1	None
+Chloroflexi	Caldilineae	11	0.00334753499696	11	None
+Chloroflexi	Chloroflexi Subdivision 6	36	0.0109555690809	36	None
+Chloroflexi	Anaerolineae	40	0.0121728545344	40	None
+Chloroflexi	Chloroflexi Subdivision 5 - SAR202 clade	6	0.00182592818016	6	None
+Planctomycetes	028H05-P-BN-P5	1	0.00030432136336	1	None
+Planctomycetes	Pla3 lineage	3	0.000912964090079	3	None
+Planctomycetes	OM190	27	0.00821667681071	27	None
+Planctomycetes	vadinHA49	13	0.00395617772368	13	None
+Planctomycetes	Pla4 lineage	8	0.00243457090688	8	None
+Planctomycetes	BD7-11	2	0.000608642726719	2	None
+Planctomycetes	Phycisphaerae	201	0.0611685940353	201	None
+Planctomycetes	Planctomycetacia	148	0.0450395617772	148	None
+Acidobacteria	RB25	59	0.0179549604382	59	None
+Acidobacteria	Acidobacteria (class)	37	0.0112598904443	37	None
+Acidobacteria	Holophagae	34	0.0103469263542	34	None
+Proteobacteria	TA18	1	0.00030432136336	1	None
+Proteobacteria	SPOTSOCT00	1	0.00030432136336	1	None
+Proteobacteria	Zetaproteobacteria	6	0.00182592818016	6	None
+Proteobacteria	Epsilonproteobacteria	4	0.00121728545344	4	None
+Proteobacteria	JTB23	3	0.000912964090079	3	None
+Proteobacteria	Deltaproteobacteria	584	0.177723676202	584	None
+Proteobacteria	Betaproteobacteria	127	0.0386488131467	127	None
+Proteobacteria	Alphaproteobacteria	135	0.0410833840536	135	None
+Proteobacteria	Gammaproteobacteria	574	0.174680462568	574	None
+stramenopiles (Plastid)	Bacillariophyta (Plastid)	13	0.00395617772368	13	None
+Streptophyta (Mitochondrion) : Embryophyta (Mitochondrion) : Tracheophyta (Mitochondrion) : Spermatophyta (Mitochondrion)	Coniferopsida (Mitochondrion)	1	0.00030432136336	1	None
+Euglenida	Sphenomonadales	2	0.000608642726719	2	None
+Cercozoa	Lecythium	1	0.00030432136336	1	None
+Cercozoa	Silicofilosea	10	0.0030432136336	10	None
+Bacillariophyta	Coscinodiscophyceae	36	0.0109555690809	36	None
+Bacillariophyta	Bacillariophyceae	6	0.00182592818016	6	None
+Ciliophora : Intramacronucleata	Spirotrichea	1	0.00030432136336	1	None
+Ciliophora : Intramacronucleata	Oligohymenophorea	1	0.00030432136336	1	None
+Eukaryota : Nucleus : Alveolata	Dinophyceae	1	0.00030432136336	1	None
+Hemichordata	Enteropneusta	1	0.00030432136336	1	None
+Nemertea	Anopla	1	0.00030432136336	1	None
+Nematoda	Chromadorea	3	0.000912964090079	3	None
+Annelida	Polychaeta	4	0.00121728545344	4	None
+Platyhelminthes	Turbellaria	4	0.00121728545344	4	None
+Arthropoda : Myriapoda	Chilopoda	1	0.00030432136336	1	None
+Arthropoda : Crustacea	Maxillopoda	1	0.00030432136336	1	None
+	Total	2774	0.84418746196	2774
+	Unclassified at class level	512	0.15581253804	512
+
+Assingments at order level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Marine Group I (Group I.1a)	Cenarchaeales	1	0.00030432136336	1	None
+Marine Group I (Group I.1a)	Nitrosopumilales	30	0.00912964090079	30	None
+Halobacteria	Halobacteriales	49	0.0149117468046	49	None
+Thermoplasmata	Thermoplasmatales	4	0.00121728545344	4	None
+Fibrobacteria	Fibrobacterales	3	0.000912964090079	3	None
+Candidate Division Caldithrix	Caldithrix	8	0.00243457090688	8	None
+Elusimicrobia (class)	MD2894-B20	1	0.00030432136336	1	None
+Elusimicrobia (class)	Lineage IIb	1	0.00030432136336	1	None
+Elusimicrobia (class)	Lineage I (Endomicrobia)	1	0.00030432136336	1	None
+Gemmatimonadetes (class)	PAUC43f marine benthic group	13	0.00395617772368	13	None
+Gemmatimonadetes (class)	Gemmatimonadales	11	0.00334753499696	11	None
+Gemmatimonadetes (class)	BD2-11 terrestrial group	16	0.00486914181376	16	None
+Ignavibacteria	Ignavibacteriales	17	0.00517346317712	17	None
+Spirochaetes (class)	Spirochaetales	18	0.00547778454047	18	None
+Halanaerobiales class incertae sedis	Halanaerobiales	3	0.000912964090079	3	None
+Lentisphaeria	Ver1	4	0.00121728545344	4	None
+Lentisphaeria	c5LKS8	2	0.000608642726719	2	None
+Lentisphaeria	Lentisphaerales	1	0.00030432136336	1	None
+Lentisphaeria	R76-B128	10	0.0030432136336	10	None
+Lentisphaeria	WCHB1-41	15	0.0045648204504	15	None
+Lentisphaeria	Victivallales	4	0.00121728545344	4	None
+Chlamydiae (class)	Chlamydiales	10	0.0030432136336	10	None
+Nitrospirae : Nitrospira	Nitrospirales	49	0.0149117468046	49	None
+Verrucomicrobiae	Verrucomicrobiales	19	0.00578210590383	19	None
+Opitutae	Puniceicoccales	2	0.000608642726719	2	None
+Opitutae	Opitutales	1	0.00030432136336	1	None
+Fusobacteria (class)	AT425	1	0.00030432136336	1	None
+Fusobacteria (class)	Fusobacteriales	10	0.0030432136336	10	None
+Clostridia	Clostridiales	17	0.00517346317712	17	None
+Bacilli	Bacillales	3	0.000912964090079	3	None
+Coriobacteriia	Coriobacteriales	1	0.00030432136336	1	None
+Acidimicrobiia	Acidimicrobiales	39	0.011868533171	39	None
+Rhodothermaceae incertae sedis	Rubricoccus	1	0.00030432136336	1	None
+Cytophagia	Cytophagales	40	0.0121728545344	40	None
+Bacteroidia	Bacteroidales	4	0.00121728545344	4	None
+Sphingobacteria	Sphingobacteriales	10	0.0030432136336	10	None
+Flavobacteria	Flavobacteriales	59	0.0179549604382	59	None
+Ktedonobacteria	JG30-KF-CM66	3	0.000912964090079	3	None
+Caldilineae	Caldilineales	10	0.0030432136336	10	None
+Chloroflexi Subdivision 6	FS118-62B-02	1	0.00030432136336	1	None
+Chloroflexi Subdivision 6	S085	14	0.00426049908704	14	None
+Chloroflexi Subdivision 6	Dehalococcoidetes	2	0.000608642726719	2	None
+Chloroflexi Subdivision 6	vadinBA26	8	0.00243457090688	8	None
+Chloroflexi Subdivision 6	GIF3	3	0.000912964090079	3	None
+Chloroflexi Subdivision 6	GIF9	1	0.00030432136336	1	None
+Chloroflexi Subdivision 6	Sh765B-AG-111	2	0.000608642726719	2	None
+Phycisphaerae	ML-A-10	28	0.00852099817407	28	None
+Phycisphaerae	SHA-43	2	0.000608642726719	2	None
+Phycisphaerae	CCM11a	5	0.0015216068168	5	None
+Phycisphaerae	mle1-8	5	0.0015216068168	5	None
+Phycisphaerae	MSB-3A7 sediment group	2	0.000608642726719	2	None
+Phycisphaerae	Pla1 lineage	3	0.000912964090079	3	None
+Phycisphaerae	Phycisphaerales	39	0.011868533171	39	None
+Phycisphaerae	vadinBA30 marine sediment group	100	0.030432136336	100	None
+Planctomycetacia	Brocadiales	30	0.00912964090079	30	None
+Planctomycetacia	Planctomycetales	115	0.0349969567864	115	None
+RB25	Acidobacteria group 26	3	0.000912964090079	3	None
+RB25	Acidobacteria group 22	56	0.0170419963481	56	None
+Acidobacteria (class)	Acidobacteria group 9 - BPC015	10	0.0030432136336	10	None
+Acidobacteria (class)	AT-s3-28	5	0.0015216068168	5	None
+Acidobacteria (class)	Acidobacteria group 21 (BPC102)	6	0.00182592818016	6	None
+Acidobacteria (class)	Acidobacteria group 5	1	0.00030432136336	1	None
+Acidobacteria (class)	Acidobacteria group 17 (DA023)	8	0.00243457090688	8	None
+Acidobacteria (class)	Acidobacteria group 4	1	0.00030432136336	1	None
+Acidobacteria (class)	Acidobacteria group 6 (DA023)	4	0.00121728545344	4	None
+Acidobacteria (class)	Acidobacteria group 3	1	0.00030432136336	1	None
+Holophagae	Acanthopleuribacterales (Acidobacteria group 8)	1	0.00030432136336	1	None
+Holophagae	Acidobacteria group 10	32	0.00973828362751	32	None
+Holophagae	Acidobacteria group 23	1	0.00030432136336	1	None
+SPOTSOCT00	5m83	1	0.00030432136336	1	None
+Zetaproteobacteria	Mariprofundales	6	0.00182592818016	6	None
+Epsilonproteobacteria	Campylobacterales	4	0.00121728545344	4	None
+Deltaproteobacteria	10bav-F6	1	0.00030432136336	1	None
+Deltaproteobacteria	DTB120	9	0.00273889227024	9	None
+Deltaproteobacteria	43F-1404R (Deltaproteobacteria)	13	0.00395617772368	13	None
+Deltaproteobacteria	Nitrospinaceae order incertae sedis	27	0.00821667681071	27	None
+Deltaproteobacteria	Desulfarculales	12	0.00365185636032	12	None
+Deltaproteobacteria	GR-WP33-30	13	0.00395617772368	13	None
+Deltaproteobacteria	Syntrophobacterales	26	0.00791235544735	26	None
+Deltaproteobacteria	Sva0485	12	0.00365185636032	12	None
+Deltaproteobacteria	Bdellovibrionales	11	0.00334753499696	11	None
+Deltaproteobacteria	Sh765B-TzT-29	135	0.0410833840536	135	None
+Deltaproteobacteria	Desulfobacterales	152	0.0462568472307	152	None
+Deltaproteobacteria	Desulfuromonadales	53	0.0161290322581	53	None
+Deltaproteobacteria	SAR324 clade(Marine group B)	35	0.0106512477176	35	None
+Deltaproteobacteria	Myxococcales	61	0.0185636031649	61	None
+Betaproteobacteria	TRA3-20	1	0.00030432136336	1	None
+Betaproteobacteria	Nitrosomonadales	4	0.00121728545344	4	None
+Betaproteobacteria	Hydrogenophilales	1	0.00030432136336	1	None
+Betaproteobacteria	Burkholderiales	114	0.034692635423	114	None
+Alphaproteobacteria	S26-47	1	0.00030432136336	1	None
+Alphaproteobacteria	MNG3	2	0.000608642726719	2	None
+Alphaproteobacteria	DB1-14	1	0.00030432136336	1	None
+Alphaproteobacteria	Rhizobiales	11	0.00334753499696	11	None
+Alphaproteobacteria	OCS116 clade	5	0.0015216068168	5	None
+Alphaproteobacteria	Rickettsiales	4	0.00121728545344	4	None
+Alphaproteobacteria	Rhodobacterales	12	0.00365185636032	12	None
+Alphaproteobacteria	Rhodospirillales	83	0.0252586731589	83	None
+Alphaproteobacteria	SAR11 clade	1	0.00030432136336	1	None
+Gammaproteobacteria	EC3	3	0.000912964090079	3	None
+Gammaproteobacteria	SS1-B-09-64	1	0.00030432136336	1	None
+Gammaproteobacteria	Sva0071	7	0.00213024954352	7	None
+Gammaproteobacteria	E01-9C-26 marine group	1	0.00030432136336	1	None
+Gammaproteobacteria	Arenciella Order Incertae Sedis	2	0.000608642726719	2	None
+Gammaproteobacteria	NKB5	1	0.00030432136336	1	None
+Gammaproteobacteria	BD7-8 marine group	32	0.00973828362751	32	None
+Gammaproteobacteria	Sedimenticola Order Incertae Sedis	2	0.000608642726719	2	None
+Gammaproteobacteria	KI89A clade	8	0.00243457090688	8	None
+Gammaproteobacteria	HOC36	1	0.00030432136336	1	None
+Gammaproteobacteria	Acidithiobacillales	3	0.000912964090079	3	None
+Gammaproteobacteria	Legionellales	5	0.0015216068168	5	None
+Gammaproteobacteria	Chromatiales	49	0.0149117468046	49	None
+Gammaproteobacteria	Marinicella Order Incertae Sedis	47	0.0143031040779	47	None
+Gammaproteobacteria	Enterobacteriales	125	0.03804017042	125	None
+Gammaproteobacteria	Alteromonadales	73	0.0222154595253	73	None
+Gammaproteobacteria	Oceanospirillales	21	0.00639074863055	21	None
+Gammaproteobacteria	Thiotrichales	2	0.000608642726719	2	None
+Gammaproteobacteria	Xanthomonadales	133	0.0404747413268	133	None
+Bacillariophyta (Plastid)	Bacillariophyceae (Plastid)	8	0.00243457090688	8	None
+Bacillariophyta (Plastid)	Coscinodiscophyceae (Plastid)	1	0.00030432136336	1	None
+Coniferopsida (Mitochondrion)	Coniferales (Mitochondrion)	1	0.00030432136336	1	None
+Euglenida	Sphenomonadales	2	0.000608642726719	2	None
+Cercozoa	Lecythium	1	0.00030432136336	1	None
+Silicofilosea	Euglyphida	2	0.000608642726719	2	None
+Silicofilosea	Thaumatomonadida	7	0.00213024954352	7	None
+Coscinodiscophyceae : Chaetocerotophycidae	Chaetocerotales	8	0.00243457090688	8	None
+Coscinodiscophyceae : Thalassiosirophycidae	Thalassiosirales	15	0.0045648204504	15	None
+Bacillariophyceae : Bacillariophycidae	Naviculales	4	0.00121728545344	4	None
+Bacillariophyceae : Bacillariophycidae	Bacillariales	1	0.00030432136336	1	None
+Spirotrichea	Stichotrichia	1	0.00030432136336	1	None
+Oligohymenophorea : Scuticociliatia	Philasterida	1	0.00030432136336	1	None
+Anopla	Heteronemertea	1	0.00030432136336	1	None
+Chromadorea	Desmodorida	2	0.000608642726719	2	None
+Polychaeta : Scolecida	Spionida	1	0.00030432136336	1	None
+Polychaeta : Palpata : Canalipalpata	Sabellida	1	0.00030432136336	1	None
+Turbellaria : Acoelomorpha	Acoela	4	0.00121728545344	4	None
+Chilopoda : Pleurostigmophora	Lithobiomorpha	1	0.00030432136336	1	None
+Maxillopoda	Copepoda	1	0.00030432136336	1	None
+	Total	2370	0.721241631163	2370
+	Unclassified at order level	916	0.278758368837	916
+
+Assingments at family level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Cenarchaeales	Cenarchaeaceae	1	0.00030432136336	1	None
+Nitrosopumilales	Nitrosopumilaceae	30	0.00912964090079	30	None
+Halobacteriales	Deep Sea Euryarcheotic Group (DSEG) DHVE-3	1	0.00030432136336	1	None
+Halobacteriales	Deep Sea Hydrothermal Vent Gp 6(DHVEG-6)	20	0.00608642726719	20	None
+Thermoplasmatales	TMEG-9	2	0.000608642726719	2	None
+Thermoplasmatales	TMEG-11	1	0.00030432136336	1	None
+Fibrobacterales	09D2Z46	2	0.000608642726719	2	None
+Fibrobacterales	Fibrobacteraceae	1	0.00030432136336	1	None
+Candidate Division Caldithrix	Caldithrix	8	0.00243457090688	8	None
+Gemmatimonadales	Gemmatimonadaceae	8	0.00243457090688	8	None
+Spirochaetales	Spirochaetaceae	14	0.00426049908704	14	None
+Halanaerobiales	64K2	3	0.000912964090079	3	None
+Victivallales	Victivallaceae	2	0.000608642726719	2	None
+Chlamydiales	Simkaniaceae	4	0.00121728545344	4	None
+Chlamydiales	Parachlamydiaceae	1	0.00030432136336	1	None
+Nitrospirales	Nitrospiraceae	40	0.0121728545344	40	None
+Verrucomicrobiales	DEV007	6	0.00182592818016	6	None
+Verrucomicrobiales	Rubritaleaceae	11	0.00334753499696	11	None
+Puniceicoccales	Puniceicoccaceae	1	0.00030432136336	1	None
+Opitutales	Opitutaceae	1	0.00030432136336	1	None
+Fusobacteriales	Fusobacteriaceae	10	0.0030432136336	10	None
+Clostridiales	Family XII Incertae Sedis (Clostridiales)	14	0.00426049908704	14	None
+Clostridiales	Lachnospiraceae	1	0.00030432136336	1	None
+Bacillales	Paenibacillaceae	3	0.000912964090079	3	None
+Acidimicrobiales	TM214	1	0.00030432136336	1	None
+Acidimicrobiales	Acidimicrobiaceae	2	0.000608642726719	2	None
+Acidimicrobiales	OCS155 marine group	30	0.00912964090079	30	None
+Acidimicrobiales	Sva0996 marine group	3	0.000912964090079	3	None
+Rhodothermaceae incertae sedis	Rubricoccus	1	0.00030432136336	1	None
+Cytophagales	Flammeovirgaceae	34	0.0103469263542	34	None
+Bacteroidales	Marinilabiaceae	4	0.00121728545344	4	None
+Sphingobacteriales	WCHB1-69	4	0.00121728545344	4	None
+Sphingobacteriales	Saprospiraceae	5	0.0015216068168	5	None
+Flavobacteriales	Flavobacteriaceae	51	0.0155203895313	51	None
+Flavobacteriales	Cryomorphaceae	6	0.00182592818016	6	None
+Caldilineales	Caldilineaceae	8	0.00243457090688	8	None
+Dehalococcoidetes	Dehalogenimonas	1	0.00030432136336	1	None
+Phycisphaerales	AKAU3564 sediment group	3	0.000912964090079	3	None
+Phycisphaerales	08D2Z94 hypersaline microbial mat group	1	0.00030432136336	1	None
+Phycisphaerales	Phycisphaeraceae	13	0.00395617772368	13	None
+Phycisphaerales	ODP1230B30.02 sediment group	5	0.0015216068168	5	None
+Brocadiales	Brocadiaceae	28	0.00852099817407	28	None
+Planctomycetales	Planctomycetaceae	96	0.0292148508825	96	None
+Acidobacteria group 10	NS72	2	0.000608642726719	2	None
+Acidobacteria group 10	CA002	3	0.000912964090079	3	None
+Acidobacteria group 10	Sva0725	18	0.00547778454047	18	None
+Acidobacteria group 10	43F-1404R (Acidobacteria group 10)	2	0.000608642726719	2	None
+Acidobacteria group 23	NKB17	1	0.00030432136336	1	None
+Mariprofundales	Mariprofundaceae	5	0.0015216068168	5	None
+Campylobacterales	Helicobacteraceae	3	0.000912964090079	3	None
+Nitrospinaceae order incertae sedis	Nitrospinaceae	21	0.00639074863055	21	None
+Desulfarculales	Desulfarculaceae	10	0.0030432136336	10	None
+Syntrophobacterales	Syntrophobacteraceae	24	0.00730371272063	24	None
+Syntrophobacterales	Syntrophaceae	1	0.00030432136336	1	None
+Bdellovibrionales	Bdellovibrionaceae	2	0.000608642726719	2	None
+Bdellovibrionales	Bacteriovoraceae	7	0.00213024954352	7	None
+Desulfobacterales	Desulfobacteraceae	77	0.0234327449787	77	None
+Desulfobacterales	Desulfobulbaceae	63	0.0191722458917	63	None
+Desulfuromonadales	Sva1033	26	0.00791235544735	26	None
+Desulfuromonadales	Desulfuromonadaceae	3	0.000912964090079	3	None
+Desulfuromonadales	Geobacteraceae	12	0.00365185636032	12	None
+Desulfuromonadales	GR-WP33-58	1	0.00030432136336	1	None
+Myxococcales	JG37-AG-15	28	0.00852099817407	28	None
+Myxococcales	Sorangiineae	1	0.00030432136336	1	None
+Myxococcales : Nannocystineae	Nannocystaceae	2	0.000608642726719	2	None
+Myxococcales : Nannocystineae	Haliangiaceae	3	0.000912964090079	3	None
+Myxococcales	Cystobacterineae	7	0.00213024954352	7	None
+Myxococcales	0319-6G20	3	0.000912964090079	3	None
+Nitrosomonadales	Nitrosomonadaceae	4	0.00121728545344	4	None
+Hydrogenophilales	Hydrogenophilaceae	1	0.00030432136336	1	None
+Burkholderiales	Burkholderiaceae	24	0.00730371272063	24	None
+Burkholderiales	Comamonadaceae	87	0.0264759586123	87	None
+Rhizobiales	Phyllobacteriaceae	1	0.00030432136336	1	None
+Rhizobiales	Hyphomicrobiaceae	4	0.00121728545344	4	None
+Rhizobiales	Rhodobiaceae	5	0.0015216068168	5	None
+Rickettsiales	TK34	4	0.00121728545344	4	None
+Rhodobacterales	Rhodobacteraceae	12	0.00365185636032	12	None
+Rhodospirillales	Rhodospirillaceae	78	0.0237370663421	78	None
+Arenciella Order Incertae Sedis	Arenciella Family Incertae Sedis	2	0.000608642726719	2	None
+Sedimenticola Order Incertae Sedis	Sedimenticola Family Incertae Sedis	2	0.000608642726719	2	None
+Acidithiobacillales	Acidithiobacillaceae	3	0.000912964090079	3	None
+Legionellales	Legionellaceae	1	0.00030432136336	1	None
+Legionellales	Coxiellaceae	3	0.000912964090079	3	None
+Chromatiales	Granulosicoccaceae	3	0.000912964090079	3	None
+Chromatiales	Chromatiaceae	45	0.0136944613512	45	None
+Marinicella Order Incertae Sedis	Marinicella Family Incertae Sedis	47	0.0143031040779	47	None
+Enterobacteriales	Enterobacteriaceae	125	0.03804017042	125	None
+Alteromonadales	Ferrimonadaceae	4	0.00121728545344	4	None
+Alteromonadales	NB-1d	1	0.00030432136336	1	None
+Alteromonadales	Psychromonadaceae	7	0.00213024954352	7	None
+Alteromonadales	Idiomarinaceae	1	0.00030432136336	1	None
+Alteromonadales	Colwelliaceae	9	0.00273889227024	9	None
+Alteromonadales	Moritellaceae	3	0.000912964090079	3	None
+Alteromonadales	Pseudoalteromonadaceae	1	0.00030432136336	1	None
+Alteromonadales	Alteromonadaceae	43	0.0130858186245	43	None
+Alteromonadales	Shewanellaceae	1	0.00030432136336	1	None
+Oceanospirillales	Oleiphilaceae	1	0.00030432136336	1	None
+Oceanospirillales	MBAE14	2	0.000608642726719	2	None
+Oceanospirillales	Alcanivoracaceae	2	0.000608642726719	2	None
+Oceanospirillales	OM182 clade	11	0.00334753499696	11	None
+Oceanospirillales	Oceanospirillaceae	5	0.0015216068168	5	None
+Thiotrichales	Thiotrichaceae	1	0.00030432136336	1	None
+Thiotrichales	Piscirickettsiaceae	1	0.00030432136336	1	None
+Xanthomonadales	Sinobacteraceae	131	0.0398660986001	131	None
+Bacillariophyceae (Plastid) : Bacillariophycidae (Plastid)	Naviculales (Plastid)	3	0.000912964090079	3	None
+Bacillariophyceae (Plastid) : Bacillariophycidae (Plastid)	Bacillariales (Plastid)	2	0.000608642726719	2	None
+Coscinodiscophyceae (Plastid) : Thalassiosirophycidae (Plastid)	Thalassiosirales (Plastid)	1	0.00030432136336	1	None
+Coniferales (Mitochondrion)	Pinaceae (Mitochondrion)	1	0.00030432136336	1	None
+Sphenomonadales	environmental samples (Sphenomonadales)	2	0.000608642726719	2	None
+Cercozoa	Lecythium	1	0.00030432136336	1	None
+Thaumatomonadida	Thaumatomastigidae	1	0.00030432136336	1	None
+Thaumatomonadida	Allas	5	0.0015216068168	5	None
+Chaetocerotales	Chaetocerotaceae	8	0.00243457090688	8	None
+Thalassiosirales	Thalassiosiraceae	14	0.00426049908704	14	None
+Naviculales	Naviculaceae	3	0.000912964090079	3	None
+Naviculales	Pleurosigmataceae	1	0.00030432136336	1	None
+Bacillariales	Bacillariaceae	1	0.00030432136336	1	None
+Philasterida	Philasteridae	1	0.00030432136336	1	None
+Heteronemertea	Micrura	1	0.00030432136336	1	None
+Desmodorida : Richtersioidea	Microlaimidae	1	0.00030432136336	1	None
+Desmodorida	Desmodoridae	1	0.00030432136336	1	None
+Spionida	Spionidae	1	0.00030432136336	1	None
+Sabellida	Sabellidae	1	0.00030432136336	1	None
+Acoela	Atriofonta	2	0.000608642726719	2	None
+Lithobiomorpha	Henicopidae	1	0.00030432136336	1	None
+	Total	1533	0.46652465003	1533
+	Unclassified at family level	1753	0.53347534997	1753
+
+Assingments at genus level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Cenarchaeaceae	Cenarchaeum	1	0.00030432136336	1	None
+Nitrosopumilaceae	Nitrosopumilus	4	0.00121728545344	4	None
+Deep Sea Hydrothermal Vent Gp 6(DHVEG-6)	Candidatus Parvarchaeum	3	0.000912964090079	3	None
+Candidate Division Caldithrix	Caldithrix	8	0.00243457090688	8	None
+Spirochaetaceae	Spirochaeta	7	0.00213024954352	7	None
+Simkaniaceae	Simkania negevensis	1	0.00030432136336	1	None
+Simkaniaceae	Candidatus Fritschea	2	0.000608642726719	2	None
+Nitrospiraceae	Nitrospira (genus)	13	0.00395617772368	13	None
+Rubritaleaceae	Roseibacillus	3	0.000912964090079	3	None
+Rubritaleaceae	Rubritalea	1	0.00030432136336	1	None
+Rubritaleaceae	Haloferula	4	0.00121728545344	4	None
+Puniceicoccaceae	Cerasicoccus	1	0.00030432136336	1	None
+Fusobacteriaceae	Propionigenium	1	0.00030432136336	1	None
+Fusobacteriaceae	Psychrilyobacter	8	0.00243457090688	8	None
+Family XII Incertae Sedis (Clostridiales)	Fusibacter	14	0.00426049908704	14	None
+Paenibacillaceae	Paenibacillus	3	0.000912964090079	3	None
+Rhodothermaceae incertae sedis	Rubricoccus	1	0.00030432136336	1	None
+Flammeovirgaceae	Persicobacter	5	0.0015216068168	5	None
+Flammeovirgaceae	Reichenbachiella	6	0.00182592818016	6	None
+Flammeovirgaceae	Ekhidna	1	0.00030432136336	1	None
+Marinilabiaceae	Marinifilum	1	0.00030432136336	1	None
+Flavobacteriaceae	Maritimimonas	1	0.00030432136336	1	None
+Flavobacteriaceae	Lutibacter	9	0.00273889227024	9	None
+Flavobacteriaceae	Actibacter	2	0.000608642726719	2	None
+Flavobacteriaceae	Eudoraea	1	0.00030432136336	1	None
+Flavobacteriaceae	Pseudozobellia	1	0.00030432136336	1	None
+Flavobacteriaceae	Maribacter	1	0.00030432136336	1	None
+Flavobacteriaceae	Formosa	1	0.00030432136336	1	None
+Flavobacteriaceae	Polaribacter	1	0.00030432136336	1	None
+Cryomorphaceae	Fluviicola	2	0.000608642726719	2	None
+Cryomorphaceae	Owenweeksia	4	0.00121728545344	4	None
+Dehalococcoidetes	Dehalogenimonas	1	0.00030432136336	1	None
+Phycisphaeraceae	Urania-1B-19 marine sediment group	7	0.00213024954352	7	None
+Phycisphaeraceae	Phycisphaera	2	0.000608642726719	2	None
+Brocadiaceae	W4	2	0.000608642726719	2	None
+Brocadiaceae	Candidatus Scalindua	24	0.00730371272063	24	None
+Planctomycetaceae	Rhodopirellula	8	0.00243457090688	8	None
+Planctomycetaceae	Pir4 lineage	30	0.00912964090079	30	None
+Planctomycetaceae	Planctomyces	2	0.000608642726719	2	None
+Planctomycetaceae	Blastopirellula	10	0.0030432136336	10	None
+Mariprofundaceae	Mariprofundus	2	0.000608642726719	2	None
+Helicobacteraceae	Arcobacter	2	0.000608642726719	2	None
+Helicobacteraceae	Sulfurimonas	1	0.00030432136336	1	None
+Nitrospinaceae	Nitrospina	11	0.00334753499696	11	None
+Bdellovibrionaceae	OM27 clade	1	0.00030432136336	1	None
+Desulfobacteraceae	Desulfosalsimonas	1	0.00030432136336	1	None
+Desulfobacteraceae	Desulfococcus	4	0.00121728545344	4	None
+Desulfobacteraceae	Desulfobacula	2	0.000608642726719	2	None
+Desulfobacteraceae	SEEP-SRB1	18	0.00547778454047	18	None
+Desulfobacteraceae	endosymbionts (Desulfobacteraceae)	32	0.00973828362751	32	None
+Desulfobulbaceae	Desulfotalea	1	0.00030432136336	1	None
+Desulfobulbaceae	Desulfobulbus	39	0.011868533171	39	None
+Desulfobulbaceae	SEEP-SRB4	3	0.000912964090079	3	None
+Desulfobulbaceae	Desulforhopalus	3	0.000912964090079	3	None
+Desulfuromonadaceae	Desulfuromusa	1	0.00030432136336	1	None
+Desulfuromonadaceae	Desulfuromonas	2	0.000608642726719	2	None
+Geobacteraceae	Geothermobacter	1	0.00030432136336	1	None
+Geobacteraceae	Geopsychrobacter	10	0.0030432136336	10	None
+Nannocystaceae	Enhygromyxa	1	0.00030432136336	1	None
+Nannocystaceae	Plesiocystis	1	0.00030432136336	1	None
+Haliangiaceae	Haliangium	2	0.000608642726719	2	None
+Nitrosomonadaceae	Nitrosomonas	3	0.000912964090079	3	None
+Hydrogenophilaceae	Thiobacillus	1	0.00030432136336	1	None
+Burkholderiaceae	Cupriavidus	1	0.00030432136336	1	None
+Burkholderiaceae	Burkholderia	13	0.00395617772368	13	None
+Comamonadaceae	Aquabacterium	35	0.0106512477176	35	None
+Comamonadaceae	BAL58 marine group	1	0.00030432136336	1	None
+Phyllobacteriaceae	Ahrensia	1	0.00030432136336	1	None
+Hyphomicrobiaceae	Bauldia	2	0.000608642726719	2	None
+Rhodobiaceae	Anderseniella	1	0.00030432136336	1	None
+Rhodobiaceae	Rhodobium	3	0.000912964090079	3	None
+Rhodospirillaceae	Pelagibius	6	0.00182592818016	6	None
+Rhodospirillaceae	Defluviicoccus	9	0.00273889227024	9	None
+Arenciella Family Incertae Sedis	Arenicella	2	0.000608642726719	2	None
+Sedimenticola Family Incertae Sedis	Sedimenticola	2	0.000608642726719	2	None
+Acidithiobacillaceae	Acidithiobacillus	2	0.000608642726719	2	None
+Legionellaceae	Legionella	1	0.00030432136336	1	None
+Coxiellaceae	Coxiella	1	0.00030432136336	1	None
+Granulosicoccaceae	Granulosicoccus	3	0.000912964090079	3	None
+Chromatiaceae	Nitrosococcus	43	0.0130858186245	43	None
+Marinicella Family Incertae Sedis	Marinicella	46	0.0139987827145	46	None
+Enterobacteriaceae	Escherichia-Shigella	35	0.0106512477176	35	None
+Ferrimonadaceae	Ferrimonas	3	0.000912964090079	3	None
+NB-1d	gamma proteobacterium PS12-4	1	0.00030432136336	1	None
+Psychromonadaceae	Psychromonas	7	0.00213024954352	7	None
+Colwelliaceae	Colwellia	8	0.00243457090688	8	None
+Moritellaceae	Moritella	3	0.000912964090079	3	None
+Pseudoalteromonadaceae	Pseudoalteromonas	1	0.00030432136336	1	None
+Alteromonadaceae	Haliea	2	0.000608642726719	2	None
+Alteromonadaceae	uncultured	1	0.00030432136336	1	None
+Alteromonadaceae	Glaciecola	1	0.00030432136336	1	None
+Alteromonadaceae	SAR92 clade	1	0.00030432136336	1	None
+Alteromonadaceae	BD1-7 clade	3	0.000912964090079	3	None
+Alteromonadaceae	OM60(NOR5) clade	11	0.00334753499696	11	None
+Oleiphilaceae	Oleiphilus	1	0.00030432136336	1	None
+Alcanivoracaceae	Kangiella	2	0.000608642726719	2	None
+Oceanospirillaceae	Neptunomonas	1	0.00030432136336	1	None
+Oceanospirillaceae	Amphritea	1	0.00030432136336	1	None
+Oceanospirillaceae	Pseudospirillum	1	0.00030432136336	1	None
+Thiotrichaceae	Leucothrix	1	0.00030432136336	1	None
+Sinobacteraceae	JTB255 marine benthic group	106	0.0322580645161	106	None
+Bacillariophyceae (Plastid) : Bacillariophycidae (Plastid)	Naviculales (Plastid)	3	0.000912964090079	3	None
+Bacillariophyceae (Plastid) : Bacillariophycidae (Plastid)	Bacillariales (Plastid)	2	0.000608642726719	2	None
+Coscinodiscophyceae (Plastid) : Thalassiosirophycidae (Plastid)	Thalassiosirales (Plastid)	1	0.00030432136336	1	None
+Cercozoa	Lecythium	1	0.00030432136336	1	None
+Thaumatomastigidae	Protaspis	1	0.00030432136336	1	None
+Thaumatomonadida	Allas	5	0.0015216068168	5	None
+Chaetocerotaceae	Chaetoceros	7	0.00213024954352	7	None
+Thalassiosiraceae	Porosira	3	0.000912964090079	3	None
+Thalassiosiraceae	Thalassiosira	6	0.00182592818016	6	None
+Naviculaceae	Navicula	1	0.00030432136336	1	None
+Pleurosigmataceae	Pleurosigma	1	0.00030432136336	1	None
+Philasteridae	Miamiensis	1	0.00030432136336	1	None
+Heteronemertea	Micrura	1	0.00030432136336	1	None
+Spionidae	Prionospio	1	0.00030432136336	1	None
+Atriofonta	Atriofonta polyvacuola nucleus	2	0.000608642726719	2	None
+Henicopidae : Henicopinae	Henicopini	1	0.00030432136336	1	None
+	Total	738	0.224589166159	738
+	Unclassified at genus level	2548	0.775410833841	2548
+
+Assingments at species level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Nitrosopumilus	Nitrosopumilus maritimus SCM1	1	0.00030432136336	1	None
+Pseudozobellia	Pseudozobellia thermophila	1	0.00030432136336	1	None
+Psychromonas	Psychromonas antarctica	1	0.00030432136336	1	None
+uncultured	Porticoccus	1	0.00030432136336	1	None
+Naviculales (Plastid)	Naviculaceae (Plastid)	2	0.000608642726719	2	None
+Bacillariales (Plastid)	Bacillariaceae (Plastid)	2	0.000608642726719	2	None
+Chaetoceros	Chaetoceros socialis nucleus	2	0.000608642726719	2	None
+Porosira	Porosira pseudodenticulata nucleus	3	0.000912964090079	3	None
+Micrura	Micrura fasciolata nucleus	1	0.00030432136336	1	None
+	Total	14	0.00426049908704	14
+	Unclassified at species level	3272	0.995739500913	3272
+

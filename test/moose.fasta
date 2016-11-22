@@ -1,0 +1,306 @@
+Assingments at base level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+root	No hits	1269	0.0573274304301	1269	None
+root	Cellular organisms	20867	0.94267256957	20867	None
+	Total	22136	1.0	22136
+	Unclassified at base level	0	0.0	0
+
+Assingments at domain level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Cellular organisms	Archaea	10	0.000451752800867	10	None
+Cellular organisms	Bacteria	19548	0.883086375136	19548	None
+Cellular organisms	Eukaryota	1309	0.0591344416335	1309	None
+	Total	20867	0.94267256957	20867
+	Unclassified at domain level	1269	0.0573274304301	1269
+
+Assingments at phylum level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Archaea	Euryarchaeota	10	0.000451752800867	10	None
+Bacteria	Candidate division OP9	1	4.51752800867e-05	1	None
+Bacteria	Candidate division TM7	10	0.000451752800867	10	None
+Bacteria	Spirochaetes	52	0.00234911456451	52	None
+Bacteria	Lentisphaerae	23	0.00103903144199	23	None
+Bacteria	RF3	38	0.0017166606433	38	None
+Bacteria	Tenericutes	655	0.0295898084568	655	None
+Bacteria	Verrucomicrobia	289	0.0130556559451	289	None
+Bacteria	Firmicutes	16359	0.739022406939	16359	None
+Bacteria	Actinobacteria	170	0.00767979761475	170	None
+Bacteria	Bacteroidetes	1646	0.0743585110228	1646	None
+Bacteria	Cyanobacteria	31	0.00140043368269	31	None
+Bacteria	Chloroflexi	56	0.00252981568486	56	None
+Bacteria	Planctomycetes	34	0.00153595952295	34	None
+Bacteria	Proteobacteria	112	0.00505963136971	112	None
+Eukaryota : Mitochondrion	Fungi (Mitochondrion)	38	0.0017166606433	38	None
+Eukaryota : Nucleus : Rhizaria	Cercozoa	2	9.03505601735e-05	2	None
+Eukaryota : Nucleus	Parabasalia	1	4.51752800867e-05	1	None
+Eukaryota : Nucleus : Fungi	Neocallimastigomycota	1	4.51752800867e-05	1	None
+Eukaryota : Nucleus : Fungi : Dikarya	Basidiomycota	1	4.51752800867e-05	1	None
+Eukaryota : Nucleus : Fungi : Dikarya	Ascomycota	1212	0.0547524394651	1212	None
+Eukaryota : Nucleus : Alveolata	Apicomplexa	2	9.03505601735e-05	2	None
+Eukaryota : Nucleus : Metazoa	Nematoda	1	4.51752800867e-05	1	None
+	Total	20744	0.937116010119	20744
+	Unclassified at phylum level	1392	0.0628839898807	1392
+
+Assingments at class level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Euryarchaeota	Methanobacteria	7	0.000316226960607	7	None
+Euryarchaeota	Thermoplasmata	3	0.00013552584026	3	None
+Spirochaetes	Spirochaetes (class)	52	0.00234911456451	52	None
+Lentisphaerae	Lentisphaeria	23	0.00103903144199	23	None
+Tenericutes	Mollicutes	655	0.0295898084568	655	None
+Verrucomicrobia	Verrucomicrobiae	260	0.0117455728226	260	None
+Verrucomicrobia	Opitutae	29	0.00131008312252	29	None
+Firmicutes	Clostridia	16178	0.730845681243	16178	None
+Firmicutes	Erysipelotrichi	118	0.00533068305023	118	None
+Firmicutes	Bacilli	6	0.00027105168052	6	None
+Actinobacteria	Coriobacteriia	150	0.00677629201301	150	None
+Actinobacteria	Actinobacteria (class)	19	0.000858330321648	19	None
+Bacteroidetes	Bacteroidia	1639	0.0740422840622	1639	None
+Cyanobacteria	Cyanobacteria (class)	31	0.00140043368269	31	None
+Chloroflexi	Chloroflexi Subdivision 11 - JG37-AG-4	1	4.51752800867e-05	1	None
+Chloroflexi	Anaerolineae	55	0.00248464040477	55	None
+Planctomycetes	Planctomycetacia	34	0.00153595952295	34	None
+Proteobacteria	Deltaproteobacteria	26	0.00117455728226	26	None
+Proteobacteria	Betaproteobacteria	8	0.000361402240694	8	None
+Proteobacteria	Alphaproteobacteria	28	0.00126490784243	28	None
+Proteobacteria	Gammaproteobacteria	45	0.0020328876039	45	None
+Fungi (Mitochondrion)	Dikarya (Mitochondrion)	27	0.00121973256234	27	None
+Cercozoa	Cercomonadida	2	9.03505601735e-05	2	None
+Neocallimastigomycota	Neocallimastigomycetes	1	4.51752800867e-05	1	None
+Basidiomycota : Pucciniomycotina : Cystobasidiomycetes	Erythrobasidiales	1	4.51752800867e-05	1	None
+Ascomycota : Pezizomycotina	Lecanoromycetes	3	0.00013552584026	3	None
+Ascomycota : Pezizomycotina	Pezizomycetes	4	0.000180701120347	4	None
+Ascomycota : Pezizomycotina	Dothideomycetes	95	0.00429165160824	95	None
+Ascomycota : Pezizomycotina	Eurotiomycetes	3	0.00013552584026	3	None
+Ascomycota : Pezizomycotina	Leotiomycetes	609	0.0275117455728	609	None
+Ascomycota : Pezizomycotina	Sordariomycetes	1	4.51752800867e-05	1	None
+Apicomplexa	Gregarinia	1	4.51752800867e-05	1	None
+Apicomplexa	Coccidia	1	4.51752800867e-05	1	None
+Nematoda	Chromadorea	1	4.51752800867e-05	1	None
+	Total	20116	0.908745934225	20116
+	Unclassified at class level	2020	0.0912540657752	2020
+
+Assingments at order level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Methanobacteria	Methanobacteriales	7	0.000316226960607	7	None
+Thermoplasmata	Thermoplasmatales	3	0.00013552584026	3	None
+Spirochaetes (class)	Spirochaetales	52	0.00234911456451	52	None
+Lentisphaeria	RFP12 gut group	9	0.000406577520781	9	None
+Lentisphaeria	Victivallales	13	0.000587278641128	13	None
+Mollicutes	RF9	648	0.0292735814962	648	None
+Mollicutes	Acholeplasmatales	1	4.51752800867e-05	1	None
+Verrucomicrobiae	Verrucomicrobiales	259	0.0117003975425	259	None
+Opitutae	Opitutales	1	4.51752800867e-05	1	None
+Opitutae	MB11C04 marine group	1	4.51752800867e-05	1	None
+Opitutae	vadinHA64	23	0.00103903144199	23	None
+Clostridia	Clostridiales	16048	0.724972894832	16048	None
+Erysipelotrichi	Erysipelotrichales	116	0.00524033249006	116	None
+Bacilli	Bacillales	3	0.00013552584026	3	None
+Bacilli	Lactobacillales	3	0.00013552584026	3	None
+Coriobacteriia	Coriobacteriales	149	0.00673111673292	149	None
+Actinobacteria (class)	Bifidobacteriales	14	0.000632453921214	14	None
+Actinobacteria (class)	Propionibacteriales	1	4.51752800867e-05	1	None
+Actinobacteria (class)	Corynebacteriales	1	4.51752800867e-05	1	None
+Actinobacteria (class)	Streptomycetales	1	4.51752800867e-05	1	None
+Actinobacteria (class)	Micrococcales	2	9.03505601735e-05	2	None
+Bacteroidia	Bacteroidales	1626	0.073455005421	1626	None
+Cyanobacteria (class)	4C0d-2	31	0.00140043368269	31	None
+Anaerolineae	Anaerolineales	53	0.0023942898446	53	None
+Planctomycetacia	Planctomycetales	34	0.00153595952295	34	None
+Deltaproteobacteria	Desulfovibrionales	13	0.000587278641128	13	None
+Deltaproteobacteria	Desulfuromonadales	13	0.000587278641128	13	None
+Betaproteobacteria	Burkholderiales	5	0.000225876400434	5	None
+Alphaproteobacteria	Rhizobiales	1	4.51752800867e-05	1	None
+Alphaproteobacteria	Rickettsiales	12	0.000542103361041	12	None
+Alphaproteobacteria	Rhodospirillales	12	0.000542103361041	12	None
+Gammaproteobacteria	Enterobacteriales	39	0.00176183592338	39	None
+Dikarya (Mitochondrion)	Ascomycota (Mitochondrion)	11	0.000496928080954	11	None
+Cercozoa	Cercomonadida	2	9.03505601735e-05	2	None
+Neocallimastigomycetes	Neocallimastigales	1	4.51752800867e-05	1	None
+Basidiomycota : Pucciniomycotina : Cystobasidiomycetes	Erythrobasidiales	1	4.51752800867e-05	1	None
+Lecanoromycetes : Ostropomycetidae	Agyriales	3	0.00013552584026	3	None
+Pezizomycetes	Pezizales	4	0.000180701120347	4	None
+Dothideomycetes : Dothideomycetidae	Capnodiales	2	9.03505601735e-05	2	None
+Dothideomycetes : Dothideomycetidae	Dothideales	3	0.00013552584026	3	None
+Dothideomycetes : Pleosporomycetidae	Pleosporales	70	0.00316226960607	70	None
+Eurotiomycetes : Eurotiomycetidae	Onygenales	2	9.03505601735e-05	2	None
+Eurotiomycetes : Eurotiomycetidae	Eurotiales	1	4.51752800867e-05	1	None
+Leotiomycetes	Thelebolales	300	0.013552584026	300	None
+Sordariomycetes : Hypocreomycetidae	Microascales	1	4.51752800867e-05	1	None
+Coccidia	Eucoccidiorida	1	4.51752800867e-05	1	None
+Chromadorea	Rhabditida	1	4.51752800867e-05	1	None
+	Total	19597	0.88529996386	19597
+	Unclassified at order level	2539	0.11470003614	2539
+
+Assingments at family level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Methanobacteriales	Methanobacteriaceae	7	0.000316226960607	7	None
+Thermoplasmatales	vadinCA11 gut group	3	0.00013552584026	3	None
+Spirochaetales	Spirochaetaceae	35	0.00158113480304	35	None
+Victivallales	Victivallaceae	7	0.000316226960607	7	None
+Verrucomicrobiales	Akkermansiaceae	254	0.011474521142	254	None
+Opitutales	Opitutaceae	1	4.51752800867e-05	1	None
+Clostridiales	Peptococcaceae	18	0.000813155041561	18	None
+Clostridiales	Eubacteriaceae	3	0.00013552584026	3	None
+Clostridiales	Family XIII Incertae Sedis	120	0.00542103361041	120	None
+Clostridiales	Syntrophomonadaceae	1	4.51752800867e-05	1	None
+Clostridiales	Clostridiaceae	1	4.51752800867e-05	1	None
+Clostridiales	Ruminococcaceae	10541	0.476192627394	10541	None
+Clostridiales	Veillonellaceae	83	0.0037495482472	83	None
+Clostridiales	Peptostreptococcaceae (Clostridiales)	24	0.00108420672208	24	None
+Clostridiales	Lachnospiraceae	3535	0.159694615107	3535	None
+Erysipelotrichales	Erysipelotrichaceae	89	0.00402059992772	89	None
+Bacillales	Planococcaceae	1	4.51752800867e-05	1	None
+Lactobacillales	Streptococcaceae	3	0.00013552584026	3	None
+Coriobacteriales	Coriobacteriaceae	126	0.00569208529093	126	None
+Bifidobacteriales	Bifidobacteriaceae	13	0.000587278641128	13	None
+Propionibacteriales	Nocardioidaceae	1	4.51752800867e-05	1	None
+Corynebacteriales	Mycobacteriaceae	1	4.51752800867e-05	1	None
+Streptomycetales	Streptomycetaceae	1	4.51752800867e-05	1	None
+Micrococcales	Sanguibacteraceae	1	4.51752800867e-05	1	None
+Micrococcales	Microbacteriaceae	1	4.51752800867e-05	1	None
+Bacteroidales	Phocaeicola Family Incertae Sedis	34	0.00153595952295	34	None
+Bacteroidales	BS11 gut group	75	0.00338814600651	75	None
+Bacteroidales	Marinilabiaceae	1	4.51752800867e-05	1	None
+Bacteroidales	Porphyromonadaceae	38	0.0017166606433	38	None
+Bacteroidales	Rikenellaceae	505	0.0228135164438	505	None
+Bacteroidales	Prevotellaceae	55	0.00248464040477	55	None
+Bacteroidales	Bacteroidaceae	322	0.0145464401879	322	None
+Bacteroidales	S24-7	91	0.00411095048789	91	None
+Anaerolineales	Anaerolineaceae	49	0.00221358872425	49	None
+Planctomycetales	Planctomycetaceae	34	0.00153595952295	34	None
+Desulfovibrionales	Desulfovibrionaceae	11	0.000496928080954	11	None
+Desulfuromonadales	GR-WP33-58	11	0.000496928080954	11	None
+Burkholderiales	Alcaligenaceae	5	0.000225876400434	5	None
+Rhizobiales	Xanthobacteraceae	1	4.51752800867e-05	1	None
+Rickettsiales	Candidatus Hepatincola	1	4.51752800867e-05	1	None
+Rickettsiales	Candidatus Captivus	1	4.51752800867e-05	1	None
+Rhodospirillales	Rhodospirillaceae	8	0.000361402240694	8	None
+Enterobacteriales	Enterobacteriaceae	39	0.00176183592338	39	None
+Neocallimastigales	Neocallimastigaceae	1	4.51752800867e-05	1	None
+Erythrobasidiales	Erythrobasidiaceae	1	4.51752800867e-05	1	None
+Agyriales	Agyriaceae	3	0.00013552584026	3	None
+Pezizales	Pyronemataceae	1	4.51752800867e-05	1	None
+Pezizales	Pezizaceae	2	9.03505601735e-05	2	None
+Capnodiales	Davidiellaceae	1	4.51752800867e-05	1	None
+Dothideales	Dothioraceae	3	0.00013552584026	3	None
+Pleosporales	Sporormiaceae	3	0.00013552584026	3	None
+Eurotiales	Trichocomaceae	1	4.51752800867e-05	1	None
+Thelebolales	Thelebolaceae	294	0.0132815323455	294	None
+mitosporic Microascales	Doratomyces	1	4.51752800867e-05	1	None
+Eucoccidiorida : Eimeriorina	Cryptosporidiidae	1	4.51752800867e-05	1	None
+	Total	16463	0.743720636068	16463
+	Unclassified at family level	5673	0.256279363932	5673
+
+Assingments at genus level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Methanobacteriaceae	Methanosphaera	1	4.51752800867e-05	1	None
+Methanobacteriaceae	Methanobrevibacter	4	0.000180701120347	4	None
+vadinCA11 gut group	methanogenic archaeon CRM1	1	4.51752800867e-05	1	None
+Spirochaetaceae	Treponema	22	0.000993856161908	22	None
+Victivallaceae	Victivallis	3	0.00013552584026	3	None
+Akkermansiaceae	Akkermansia	234	0.0105710155403	234	None
+Eubacteriaceae	Eubacterium (Eubacteriaceae)	2	9.03505601735e-05	2	None
+Eubacteriaceae	Acetobacterium	1	4.51752800867e-05	1	None
+Family XIII Incertae Sedis	Anaerovorax 	1	4.51752800867e-05	1	None
+Family XIII Incertae Sedis	Family XIII Incertae Sedis Incertae Sedis	16	0.000722804481388	16	None
+Family XIII Incertae Sedis	Mogibacterium	2	9.03505601735e-05	2	None
+Syntrophomonadaceae	Pelospora	1	4.51752800867e-05	1	None
+Ruminococcaceae	Lachnospiraceae bacterium 19gly4	1	4.51752800867e-05	1	None
+Ruminococcaceae	Faecalibacterium	6	0.00027105168052	6	None
+Ruminococcaceae	Hydrogenoanaerobacterium	1	4.51752800867e-05	1	None
+Ruminococcaceae	Oscillibacter	5	0.000225876400434	5	None
+Ruminococcaceae	Anaerotruncus	29	0.00131008312252	29	None
+Ruminococcaceae	Papillibacter	7	0.000316226960607	7	None
+Ruminococcaceae	Ruminococcaceae Incertae Sedis	385	0.0173924828334	385	None
+Ruminococcaceae	Oscillospira	5	0.000225876400434	5	None
+Ruminococcaceae	Subdoligranulum	2	9.03505601735e-05	2	None
+Ruminococcaceae	Ruminococcus	570	0.0257499096494	570	None
+Veillonellaceae	Phascolarctobacterium	52	0.00234911456451	52	None
+Veillonellaceae	Succiniclasticum	1	4.51752800867e-05	1	None
+Peptostreptococcaceae (Clostridiales)	Peptostreptococcaceae Incertae Sedis	13	0.000587278641128	13	None
+Lachnospiraceae	bacterium YE57	1	4.51752800867e-05	1	None
+Lachnospiraceae	Howardella	1	4.51752800867e-05	1	None
+Lachnospiraceae	Anaerosporobacter	2	9.03505601735e-05	2	None
+Lachnospiraceae	Shuttleworthia	1	4.51752800867e-05	1	None
+Lachnospiraceae	Marvinbryantia	15	0.000677629201301	15	None
+Lachnospiraceae	Clostridiaceae bacterium SH032	1	4.51752800867e-05	1	None
+Lachnospiraceae	Anaerostipes	1	4.51752800867e-05	1	None
+Lachnospiraceae	Blautia	31	0.00140043368269	31	None
+Lachnospiraceae	Catabacter	7	0.000316226960607	7	None
+Lachnospiraceae	Robinsoniella	5	0.000225876400434	5	None
+Lachnospiraceae	Coprococcus	182	0.00822190097579	182	None
+Lachnospiraceae	Acetitomaculum	9	0.000406577520781	9	None
+Lachnospiraceae	Roseburia	171	0.00772497289483	171	None
+Lachnospiraceae	Syntrophococcus	1	4.51752800867e-05	1	None
+Lachnospiraceae	Butyrivibrio	2	9.03505601735e-05	2	None
+Lachnospiraceae	Pseudobutyrivibrio	9	0.000406577520781	9	None
+Lachnospiraceae	Dorea	14	0.000632453921214	14	None
+Lachnospiraceae	Lachnospiraceae Incertae Sedis	219	0.009893386339	219	None
+Erysipelotrichaceae	Erysipelotrichaceae Incertae Sedis	9	0.000406577520781	9	None
+Erysipelotrichaceae	Coprobacillus	1	4.51752800867e-05	1	None
+Erysipelotrichaceae	Catenibacterium	1	4.51752800867e-05	1	None
+Planococcaceae	Planococcaceae Incertae Sedis	1	4.51752800867e-05	1	None
+Streptococcaceae	Streptococcus	1	4.51752800867e-05	1	None
+Coriobacteriaceae	Denitrobacterium	1	4.51752800867e-05	1	None
+Coriobacteriaceae	Adlercreutzia	2	9.03505601735e-05	2	None
+Coriobacteriaceae	Atopobium	1	4.51752800867e-05	1	None
+Coriobacteriaceae	Enterorhabdus	47	0.00212323816408	47	None
+Bifidobacteriaceae	Bifidobacterium	12	0.000542103361041	12	None
+Nocardioidaceae	Nocardioides	1	4.51752800867e-05	1	None
+Mycobacteriaceae	Mycobacterium	1	4.51752800867e-05	1	None
+Streptomycetaceae	Streptomyces	1	4.51752800867e-05	1	None
+Sanguibacteraceae	Sanguibacter	1	4.51752800867e-05	1	None
+Phocaeicola Family Incertae Sedis	Phocaeicola	28	0.00126490784243	28	None
+Porphyromonadaceae	Barnesiella	7	0.000316226960607	7	None
+Porphyromonadaceae	Parabacteroides	14	0.000632453921214	14	None
+Porphyromonadaceae	Odoribacter	1	4.51752800867e-05	1	None
+Porphyromonadaceae	Dysgonomonas	1	4.51752800867e-05	1	None
+Porphyromonadaceae	Tannerella	1	4.51752800867e-05	1	None
+Rikenellaceae	U29-B03	1	4.51752800867e-05	1	None
+Rikenellaceae	Alistipes	146	0.00659559089266	146	None
+Rikenellaceae	RC9 gut group	263	0.0118810986628	263	None
+Prevotellaceae	Prevotella	5	0.000225876400434	5	None
+Bacteroidaceae	Bacteroides	288	0.013010480665	288	None
+Planctomycetaceae	p-1088-a5 gut group	29	0.00131008312252	29	None
+Desulfovibrionaceae	Desulfovibrio	10	0.000451752800867	10	None
+Alcaligenaceae	Parasutterella	2	9.03505601735e-05	2	None
+Xanthobacteraceae	Pseudolabrys	1	4.51752800867e-05	1	None
+Rickettsiales	Candidatus Hepatincola	1	4.51752800867e-05	1	None
+Rickettsiales	Candidatus Captivus	1	4.51752800867e-05	1	None
+Rhodospirillaceae	Thalassospira	5	0.000225876400434	5	None
+Enterobacteriaceae	Escherichia-Shigella	15	0.000677629201301	15	None
+Erythrobasidiaceae	Occultifur	1	4.51752800867e-05	1	None
+Pyronemataceae	Geopora	1	4.51752800867e-05	1	None
+Pezizaceae	Peziza	1	4.51752800867e-05	1	None
+Sporormiaceae	Westerdykella	2	9.03505601735e-05	2	None
+Trichocomaceae	Chaetosartorya	1	4.51752800867e-05	1	None
+Thelebolaceae	Thelebolus	285	0.0128749548247	285	None
+mitosporic Microascales	Doratomyces	1	4.51752800867e-05	1	None
+Cryptosporidiidae	environmental samples (Cryptosporidiidae)	1	4.51752800867e-05	1	None
+	Total	3229	0.1458709794	3229
+	Unclassified at genus level	18907	0.8541290206	18907
+
+Assingments at species level
+
+Parent taxa	Taxa	Abundance	Share	Unique	Chao
+Ruminococcaceae Incertae Sedis	Ruminococcaceae bacterium D16	1	4.51752800867e-05	1	None
+Lachnospiraceae Incertae Sedis	Clostridiaceae bacterium DJF_B063	1	4.51752800867e-05	1	None
+Lachnospiraceae Incertae Sedis	bacterium YE64	5	0.000225876400434	5	None
+Alistipes	Alistipes putredinis DSM 17216	9	0.000406577520781	9	None
+Occultifur	Occultifur externus nucleus	1	4.51752800867e-05	1	None
+Westerdykella	Westerdykella dispersa nucleus	1	4.51752800867e-05	1	None
+Chaetosartorya	Chaetosartorya cremea nucleus	1	4.51752800867e-05	1	None
+Thelebolus	Thelebolus stercoreus nucleus	28	0.00126490784243	28	None
+Thelebolus	Thelebolus microsporus nucleus	3	0.00013552584026	3	None
+environmental samples (Cryptosporidiidae)	Cryptosporidiidae environmental sample nucleus	1	4.51752800867e-05	1	None
+	Total	51	0.00230393928442	51
+	Unclassified at species level	22085	0.997696060716	22085
+

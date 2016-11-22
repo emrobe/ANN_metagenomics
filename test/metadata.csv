@@ -1,0 +1,14 @@
+ID	Filename	Run-accession	Env.pack	Origin	Type	Technology	Bp Project
+2	cow_dung.fasta	ERR571345	host-associated	EBI	WGS	Illumina Miseq	681223609	Cow dung metagenomics
+3	human_faeces.fasta	ERR430943	human-gut	EBI	Amplicon	Ion Torrent PGM	22907554	Human faeces metagenome
+4	atlantic.fasta	ERR1102993	water	EBI	Amplicon	Illumina Miseq	9493440	Bacterial 16S Amplicon of the Altantic ocean
+5	gose.fasta	SRR066138	water	EBI	WGS	454 GS FLX	644930291	Global ocean sampling expedition
+6	mangrove.fasta	SRR1810841	soil	EBI	454 GS Junior	22567097	Mangrove soil sediment targeted locus (loci)
+7	ERR341328.fasta	ERR341328	human-vaginal	EBI	Amplicon	Illumina Hiseq2000	376600	verse vaginal microbiomes in reproductive-age women with vulvovaginal candidiasis (amplicon)
+8	skin.fasta	SRR1920445	human-skin	EBI	Amplicon	454 GS FLX	996461	Skin microbiome in human volunteers inoculated with H. ducreyi Raw sequence reads
+9	plant_microflora.fasta	SRR1802746	plant-associated	EBI	Amplicon	454 GS Junior	357761	A study of microflora of plant growth substrate
+10	sludge_soil.fasta	ERR1341803	wastewater|sludge	EBI	WGS	Illumina Hiseq 2500	5730059100	wage sludge soil samples were subjected to chitosan treatment, the microbiodiversity and gene diversity were unknown.
+11	moose.fasta	moose	host-associated	Inhouse	WGS	Illumina Miseq	XXX	Moose Inhouse sample
+12	muddy.fasta	muddy	water	Inhouse	WGS	Illumina Miseq	XXX	Muddy Inhouse sample
+13	sandy.fasta	sandy	water	Inhouse	WGS	Illumina Miseq	XXX	Sandy Inhouse sample
+14	tara_oceans.fasta	ERR315858	water	ENA	WGS	Illumina Hiseq2000	NA	Tara Oceans

@@ -1,0 +1,16 @@
+Actual,built environment,host-associated,human-associated,human-gut,human-oral,microbial mat|biofilm,miscellaneous,plant-associated,sediment,soil,unknown,wastewater|sludge,water,All
+built environment,10,2,1,0,0,0,0,1,0,1,2,0,0,17
+host-associated,0,389,2,5,1,0,1,1,0,1,5,0,4,409
+human-associated,0,2,86,2,1,0,0,3,0,0,2,0,5,101
+human-gut,0,7,1,142,0,0,0,15,0,0,0,0,0,165
+human-oral,0,2,5,0,23,0,0,0,0,4,3,0,0,37
+human-vaginal,0,0,1,1,0,0,0,0,0,0,0,0,0,2
+microbial mat|biofilm,0,0,0,0,0,2,1,1,1,1,2,0,4,12
+miscellaneous,0,3,1,2,0,0,41,3,0,3,3,2,2,60
+plant-associated,0,2,0,14,0,0,2,532,0,2,2,0,2,556
+sediment,0,0,0,0,1,0,0,2,214,2,4,0,4,227
+soil,0,2,4,0,4,0,0,0,0,271,5,1,4,291
+unknown,0,4,3,5,1,0,6,10,6,9,40,2,19,105
+wastewater|sludge,1,0,0,1,0,0,3,0,0,1,3,26,4,39
+water,0,3,0,0,2,0,3,2,1,6,9,1,318,345
+All,11,416,104,172,33,2,57,570,222,301,80,32,366,2366
